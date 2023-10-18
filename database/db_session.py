@@ -1,8 +1,9 @@
+import logging
+
 from sqlalchemy_utils import database_exists, create_database
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import Session as S, sessionmaker
 from sqlalchemy import create_engine
-import logging
 
 # Declaration 2 basic objects, that was used for:
 # Tables realisation (all tables extends from this base class)
