@@ -43,8 +43,7 @@ async def echo(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
 async def scan_for_available_tickets():
     # todo: if later what make user interaction, we can show user fast marks like:
     #       "get tickets for today" -> date.today()
-    #       also if we go by this way, we need to understand OriginCode & DestinationCode,
-    #       for user can search for any cities
+    #       also if we go by this way, check to do in api.py
 
     request = search_train_by_date(date(2024, 3, 31))
     is_available, train = is_tickets_available(request)

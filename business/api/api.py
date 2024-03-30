@@ -16,6 +16,8 @@ def search_train_by_date(date: date):
     return response.json()
 
 
+# todo: need to understand Origin & Destination,
+#       for user can search for any cities
 def _create_body(date: date):
     return {
         'Origin': '2005594',

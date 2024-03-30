@@ -35,16 +35,3 @@ params = {
     'service_provider': 'B2B_RZD',
     'bs': 'f3fbbc5d-0511-4170-b8bb-1fe4cd088081',
 }
-
-json_data = {
-    'Origin': '2005594',
-    'Destination': '2004000',
-    'DepartureDate': '2024-03-31T00:00:00',
-    'TimeFrom': 0,
-    'TimeTo': 24,
-    'CarGrouping': 'DontGroup',
-    'GetByLocalTime': True,
-    'SpecialPlacesDemand': 'StandardPlacesAndForDisabledPersons',
-    'CarIssuingType': 'All',
-    'GetTrainsFromSchedule': True,
-}
