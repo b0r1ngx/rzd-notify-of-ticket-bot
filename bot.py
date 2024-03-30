@@ -1,4 +1,6 @@
 import logging
+from datetime import date
+
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 from apscheduler.triggers.interval import IntervalTrigger
 from telegram import ForceReply, Update, Bot
@@ -39,7 +41,12 @@ async def echo(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
 
 
 async def scan_for_available_tickets():
-    request = search_train_by_date()
+    # todo: if later what make user interaction, we can show user fast marks like:
+    #       "get tickets for today" -> date.today()
+    #       also if we go by this way, we need to understand OriginCode & DestinationCode,
+    #       for user can search for any cities
+
+    request = search_train_by_date(date(2024, 3, 31))
     is_available, train = is_tickets_available(request)
     if is_available:
         users = get_all_users()
