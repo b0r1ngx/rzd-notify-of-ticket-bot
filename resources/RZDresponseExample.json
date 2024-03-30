@@ -1,0 +1,3146 @@
+{
+    "OriginStationCode": "2005594",
+    "DestinationStationCode": "2004000",
+    "Trains": [
+        {
+            "CarGroups": [
+                {
+                    "Carriers": [
+                        "ФПК"
+                    ],
+                    "CarrierDisplayNames": [
+                        "ФПК"
+                    ],
+                    "ServiceClasses": [
+                        "2Ж"
+                    ],
+                    "MinPrice": 1680.7,
+                    "MaxPrice": 1680.7,
+                    "CarType": "Sedentary",
+                    "CarTypeName": "СИД",
+                    "PlaceQuantity": 2,
+                    "LowerPlaceQuantity": 0,
+                    "UpperPlaceQuantity": 0,
+                    "LowerSidePlaceQuantity": 0,
+                    "UpperSidePlaceQuantity": 0,
+                    "MalePlaceQuantity": 0,
+                    "FemalePlaceQuantity": 0,
+                    "EmptyCabinQuantity": 0,
+                    "MixedCabinQuantity": 0,
+                    "IsSaleForbidden": false,
+                    "AvailabilityIndication": "Available",
+                    "CarDescriptions": [
+                        "Ж"
+                    ],
+                    "ServiceClassNameRu": null,
+                    "ServiceClassNameEn": null,
+                    "InternationalServiceClasses": [
+                        ""
+                    ],
+                    "ServiceCosts": [
+                        0.0
+                    ],
+                    "IsBeddingSelectionPossible": false,
+                    "BoardingSystemTypes": [
+                        "PassengerBoardingControl"
+                    ],
+                    "HasElectronicRegistration": true,
+                    "HasGenderCabins": false,
+                    "HasPlaceNumeration": true,
+                    "HasPlacesNearPlayground": false,
+                    "HasPlacesNearPets": true,
+                    "HasPlacesForDisabledPersons": false,
+                    "HasPlacesNearBabies": false,
+                    "AvailableBaggageTypes": [
+                        {
+                            "Type": "HandLuggage",
+                            "Name": "Ручная кладь",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "OversizedLuggage",
+                            "Name": "Негабаритный багаж",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "PetTransportation",
+                            "Name": "Домашние животные",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        }
+                    ],
+                    "HasNonRefundableTariff": false,
+                    "Discounts": [
+                        {
+                            "DiscountType": "Pupil",
+                            "Description": "Скидка для школьников"
+                        },
+                        {
+                            "DiscountType": "Birthday",
+                            "Description": "Скидка по тарифу ДеньР (день рождения в день отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "BirthdayAccompanying",
+                            "Description": "Скидка по тарифу ДеньС (сопровождение именинника, если его день рождения в дату отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "UniversalCard",
+                            "Description": "Скидка по дорожной карте"
+                        },
+                        {
+                            "DiscountType": "BusinessTravelCard",
+                            "Description": "Оформление по Деловому проездному"
+                        }
+                    ],
+                    "AllowedTariffs": [],
+                    "InfoRequestSchema": "StandardIncludingInvalids",
+                    "TotalPlaceQuantity": 2,
+                    "PlaceReservationTypes": [
+                        "Usual"
+                    ],
+                    "IsThreeHoursReservationAvailable": false,
+                    "IsMealOptionPossible": false,
+                    "IsAdditionalMealOptionPossible": false,
+                    "IsOnRequestMealOptionPossible": false,
+                    "IsTransitDocumentRequired": false,
+                    "IsInterstate": false,
+                    "ClientFeeCalculation": null,
+                    "AgentFeeCalculation": null,
+                    "HasNonBrandedCars": true,
+                    "TripPointQuantity": 503,
+                    "HasPlacesForBusinessTravelBooking": false,
+                    "IsCarTransportationCoaches": false,
+                    "ServiceClassName": "",
+                    "HasFssBenefit": true
+                }
+            ],
+            "IsFromSchedule": false,
+            "IsTourPackagePossible": false,
+            "CarTransportationsFreePlacesCount": null,
+            "ActualMovement": null,
+            "CategoryId": null,
+            "ScheduleId": null,
+            "BaggageCarsThreads": null,
+            "CarTransportationCoachesThreads": null,
+            "Provider": "P1",
+            "IsWaitListAvailable": false,
+            "HasElectronicRegistration": true,
+            "HasCarTransportationCoaches": false,
+            "HasDynamicPricingCars": false,
+            "HasTwoStoreyCars": false,
+            "HasSpecialSaleMode": false,
+            "Carriers": [
+                "ФПК"
+            ],
+            "CarrierDisplayNames": [
+                "ФПК"
+            ],
+            "Id": 1,
+            "IsBranded": false,
+            "TrainNumber": "803Ч",
+            "TrainNumberToGetRoute": "803Ч",
+            "DisplayTrainNumber": "803Ч",
+            "TrainDescription": "СК",
+            "TrainName": "ЛАСТОЧКА",
+            "TrainNameEn": "ЛАСТОЧКА",
+            "TransportType": "Train",
+            "OriginName": "Петрозаводск-Пасс",
+            "InitialStationName": "Петрозаводск-Пасс",
+            "OriginStationCode": "2004300",
+            "OriginStationInfo": {
+                "StationName": "Петрозаводск-Пасс",
+                "StationCode": "2004300",
+                "CnsiCode": "1",
+                "RegionName": "Республика Карелия",
+                "IsoCode": "RU-KR"
+            },
+            "InitialStationInfo": {
+                "StationName": "Петрозаводск-Пасс",
+                "StationCode": "2004300",
+                "CnsiCode": "1",
+                "RegionName": "Республика Карелия",
+                "IsoCode": "RU-KR"
+            },
+            "InitialTrainStationCode": "2004300",
+            "InitialTrainStationCnsiCode": "1",
+            "DestinationName": "Санкт-Петербург-Ладожский",
+            "FinalStationName": "Санкт-Петербург-Ладожский (Ладожский вокзал)",
+            "DestinationStationCode": "2004006",
+            "DestinationStationInfo": {
+                "StationName": "Санкт-Петербург-Ладожский",
+                "StationCode": "2004006",
+                "CnsiCode": "531",
+                "RegionName": "Санкт-Петербург",
+                "IsoCode": "RU-SPE"
+            },
+            "FinalStationInfo": {
+                "StationName": "Санкт-Петербург-Ладожский",
+                "StationCode": "2004006",
+                "CnsiCode": "531",
+                "RegionName": "Санкт-Петербург",
+                "IsoCode": "RU-SPE"
+            },
+            "FinalTrainStationCode": "2004006",
+            "FinalTrainStationCnsiCode": "531",
+            "DestinationNames": [
+                "С-ПЕТ-ЛАД"
+            ],
+            "FinalStationNames": [
+                "С-ПЕТ-ЛАД"
+            ],
+            "DepartureDateTime": "2024-03-31T06:36:00",
+            "LocalDepartureDateTime": "2024-03-31T06:36:00",
+            "ArrivalDateTime": "2024-03-31T12:00:00",
+            "LocalArrivalDateTime": "2024-03-31T12:00:00",
+            "ArrivalDateTimes": [
+                "2024-03-31T12:00:00"
+            ],
+            "LocalArrivalDateTimes": [
+                "2024-03-31T12:00:00"
+            ],
+            "DepartureDateFromFormingStation": "2024-03-31T06:36:00",
+            "DepartureStopTime": 0,
+            "ArrivalStopTime": 0,
+            "TripDuration": 324.0,
+            "TripDistance": 395,
+            "IsSuburban": false,
+            "IsComponent": false,
+            "CarServices": [],
+            "IsSaleForbidden": false,
+            "IsTicketPrintRequiredForBoarding": false,
+            "BookingSystem": "Express3",
+            "IsVrStorageSystem": false,
+            "PlacesStorageType": "Russia",
+            "BoardingSystemTypes": [
+                "PassengerBoardingControl"
+            ],
+            "TrainBrandCode": "2002",
+            "TrainClassNames": null,
+            "ServiceProvider": "B2B_RZD",
+            "DestinationStationName": "Санкт-Петербург-Ладожский (Ладожский вокзал)",
+            "OriginStationName": "Петрозаводск-Пасс",
+            "IsPlaceRangeAllowed": true,
+            "IsTrainRouteAllowed": true
+        },
+        {
+            "CarGroups": [
+                {
+                    "Carriers": [
+                        "ФПК"
+                    ],
+                    "CarrierDisplayNames": [
+                        "ФПК"
+                    ],
+                    "ServiceClasses": [
+                        "2А"
+                    ],
+                    "MinPrice": 1937.1,
+                    "MaxPrice": 1937.1,
+                    "CarType": "Compartment",
+                    "CarTypeName": "КУПЕ",
+                    "PlaceQuantity": 0,
+                    "LowerPlaceQuantity": 0,
+                    "UpperPlaceQuantity": 3,
+                    "LowerSidePlaceQuantity": 0,
+                    "UpperSidePlaceQuantity": 0,
+                    "MalePlaceQuantity": 0,
+                    "FemalePlaceQuantity": 0,
+                    "EmptyCabinQuantity": 0,
+                    "MixedCabinQuantity": 0,
+                    "IsSaleForbidden": false,
+                    "AvailabilityIndication": "Available",
+                    "CarDescriptions": [
+                        "Ж У0"
+                    ],
+                    "ServiceClassNameRu": null,
+                    "ServiceClassNameEn": null,
+                    "InternationalServiceClasses": [
+                        ""
+                    ],
+                    "ServiceCosts": [
+                        287.0
+                    ],
+                    "IsBeddingSelectionPossible": false,
+                    "BoardingSystemTypes": [
+                        "PassengerBoardingControl"
+                    ],
+                    "HasElectronicRegistration": true,
+                    "HasGenderCabins": false,
+                    "HasPlaceNumeration": true,
+                    "HasPlacesNearPlayground": false,
+                    "HasPlacesNearPets": true,
+                    "HasPlacesForDisabledPersons": false,
+                    "HasPlacesNearBabies": false,
+                    "AvailableBaggageTypes": [
+                        {
+                            "Type": "HandLuggage",
+                            "Name": "Ручная кладь",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "OversizedLuggage",
+                            "Name": "Негабаритный багаж",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "LuggageInBaggageRoom",
+                            "Name": "Багаж в специально оборудованных купе",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "PetTransportation",
+                            "Name": "Домашние животные",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        }
+                    ],
+                    "HasNonRefundableTariff": false,
+                    "Discounts": [
+                        {
+                            "DiscountType": "Pupil",
+                            "Description": "Скидка для школьников"
+                        },
+                        {
+                            "DiscountType": "Birthday",
+                            "Description": "Скидка по тарифу ДеньР (день рождения в день отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "BirthdayAccompanying",
+                            "Description": "Скидка по тарифу ДеньС (сопровождение именинника, если его день рождения в дату отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "Kupek",
+                            "Description": "Скидка по тарифу Купек (выкуп одновременно 4-х мест в вагоне купе)"
+                        },
+                        {
+                            "DiscountType": "InternalFamily",
+                            "Description": "Скидка по семейному тарифу"
+                        },
+                        {
+                            "DiscountType": "UniversalCard",
+                            "Description": "Скидка по дорожной карте"
+                        },
+                        {
+                            "DiscountType": "BusinessTravelCard",
+                            "Description": "Оформление по Деловому проездному"
+                        }
+                    ],
+                    "AllowedTariffs": [],
+                    "InfoRequestSchema": "StandardIncludingInvalids",
+                    "TotalPlaceQuantity": 3,
+                    "PlaceReservationTypes": [
+                        "Usual"
+                    ],
+                    "IsThreeHoursReservationAvailable": false,
+                    "IsMealOptionPossible": false,
+                    "IsAdditionalMealOptionPossible": false,
+                    "IsOnRequestMealOptionPossible": false,
+                    "IsTransitDocumentRequired": false,
+                    "IsInterstate": false,
+                    "ClientFeeCalculation": null,
+                    "AgentFeeCalculation": null,
+                    "HasNonBrandedCars": true,
+                    "TripPointQuantity": 579,
+                    "HasPlacesForBusinessTravelBooking": false,
+                    "IsCarTransportationCoaches": false,
+                    "ServiceClassName": "",
+                    "HasFssBenefit": true
+                },
+                {
+                    "Carriers": [
+                        "ФПК"
+                    ],
+                    "CarrierDisplayNames": [
+                        "ФПК"
+                    ],
+                    "ServiceClasses": [
+                        "2А"
+                    ],
+                    "MinPrice": 1937.1,
+                    "MaxPrice": 2141.0,
+                    "CarType": "Compartment",
+                    "CarTypeName": "КУПЕ",
+                    "PlaceQuantity": 0,
+                    "LowerPlaceQuantity": 32,
+                    "UpperPlaceQuantity": 51,
+                    "LowerSidePlaceQuantity": 0,
+                    "UpperSidePlaceQuantity": 0,
+                    "MalePlaceQuantity": 0,
+                    "FemalePlaceQuantity": 0,
+                    "EmptyCabinQuantity": 0,
+                    "MixedCabinQuantity": 0,
+                    "IsSaleForbidden": false,
+                    "AvailabilityIndication": "Available",
+                    "CarDescriptions": [
+                        "Ж У0"
+                    ],
+                    "ServiceClassNameRu": null,
+                    "ServiceClassNameEn": null,
+                    "InternationalServiceClasses": [
+                        ""
+                    ],
+                    "ServiceCosts": [
+                        287.0
+                    ],
+                    "IsBeddingSelectionPossible": false,
+                    "BoardingSystemTypes": [
+                        "PassengerBoardingControl"
+                    ],
+                    "HasElectronicRegistration": true,
+                    "HasGenderCabins": false,
+                    "HasPlaceNumeration": true,
+                    "HasPlacesNearPlayground": false,
+                    "HasPlacesNearPets": true,
+                    "HasPlacesForDisabledPersons": false,
+                    "HasPlacesNearBabies": false,
+                    "AvailableBaggageTypes": [
+                        {
+                            "Type": "HandLuggage",
+                            "Name": "Ручная кладь",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "OversizedLuggage",
+                            "Name": "Негабаритный багаж",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "LuggageInBaggageRoom",
+                            "Name": "Багаж в специально оборудованных купе",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "PetTransportation",
+                            "Name": "Домашние животные",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        }
+                    ],
+                    "HasNonRefundableTariff": false,
+                    "Discounts": [
+                        {
+                            "DiscountType": "Pupil",
+                            "Description": "Скидка для школьников"
+                        },
+                        {
+                            "DiscountType": "Birthday",
+                            "Description": "Скидка по тарифу ДеньР (день рождения в день отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "BirthdayAccompanying",
+                            "Description": "Скидка по тарифу ДеньС (сопровождение именинника, если его день рождения в дату отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "Kupek",
+                            "Description": "Скидка по тарифу Купек (выкуп одновременно 4-х мест в вагоне купе)"
+                        },
+                        {
+                            "DiscountType": "InternalFamily",
+                            "Description": "Скидка по семейному тарифу"
+                        },
+                        {
+                            "DiscountType": "UniversalCard",
+                            "Description": "Скидка по дорожной карте"
+                        },
+                        {
+                            "DiscountType": "BusinessTravelCard",
+                            "Description": "Оформление по Деловому проездному"
+                        }
+                    ],
+                    "AllowedTariffs": [],
+                    "InfoRequestSchema": "StandardIncludingInvalids",
+                    "TotalPlaceQuantity": 83,
+                    "PlaceReservationTypes": [
+                        "Usual"
+                    ],
+                    "IsThreeHoursReservationAvailable": false,
+                    "IsMealOptionPossible": false,
+                    "IsAdditionalMealOptionPossible": false,
+                    "IsOnRequestMealOptionPossible": false,
+                    "IsTransitDocumentRequired": false,
+                    "IsInterstate": false,
+                    "ClientFeeCalculation": null,
+                    "AgentFeeCalculation": null,
+                    "HasNonBrandedCars": true,
+                    "TripPointQuantity": 579,
+                    "HasPlacesForBusinessTravelBooking": false,
+                    "IsCarTransportationCoaches": false,
+                    "ServiceClassName": "",
+                    "HasFssBenefit": true
+                },
+                {
+                    "Carriers": [
+                        "ФПК"
+                    ],
+                    "CarrierDisplayNames": [
+                        "ФПК"
+                    ],
+                    "ServiceClasses": [
+                        "2А"
+                    ],
+                    "MinPrice": 1937.1,
+                    "MaxPrice": 1937.1,
+                    "CarType": "Compartment",
+                    "CarTypeName": "КУПЕ",
+                    "PlaceQuantity": 0,
+                    "LowerPlaceQuantity": 0,
+                    "UpperPlaceQuantity": 4,
+                    "LowerSidePlaceQuantity": 0,
+                    "UpperSidePlaceQuantity": 0,
+                    "MalePlaceQuantity": 2,
+                    "FemalePlaceQuantity": 2,
+                    "EmptyCabinQuantity": 0,
+                    "MixedCabinQuantity": 0,
+                    "IsSaleForbidden": false,
+                    "AvailabilityIndication": "Available",
+                    "CarDescriptions": [
+                        "МЖ Ж У0"
+                    ],
+                    "ServiceClassNameRu": null,
+                    "ServiceClassNameEn": null,
+                    "InternationalServiceClasses": [
+                        ""
+                    ],
+                    "ServiceCosts": [
+                        287.0
+                    ],
+                    "IsBeddingSelectionPossible": false,
+                    "BoardingSystemTypes": [
+                        "PassengerBoardingControl"
+                    ],
+                    "HasElectronicRegistration": true,
+                    "HasGenderCabins": true,
+                    "HasPlaceNumeration": true,
+                    "HasPlacesNearPlayground": false,
+                    "HasPlacesNearPets": true,
+                    "HasPlacesForDisabledPersons": false,
+                    "HasPlacesNearBabies": false,
+                    "AvailableBaggageTypes": [
+                        {
+                            "Type": "HandLuggage",
+                            "Name": "Ручная кладь",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "OversizedLuggage",
+                            "Name": "Негабаритный багаж",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "LuggageInBaggageRoom",
+                            "Name": "Багаж в специально оборудованных купе",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "PetTransportation",
+                            "Name": "Домашние животные",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        }
+                    ],
+                    "HasNonRefundableTariff": false,
+                    "Discounts": [
+                        {
+                            "DiscountType": "Pupil",
+                            "Description": "Скидка для школьников"
+                        },
+                        {
+                            "DiscountType": "Birthday",
+                            "Description": "Скидка по тарифу ДеньР (день рождения в день отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "BirthdayAccompanying",
+                            "Description": "Скидка по тарифу ДеньС (сопровождение именинника, если его день рождения в дату отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "Kupek",
+                            "Description": "Скидка по тарифу Купек (выкуп одновременно 4-х мест в вагоне купе)"
+                        },
+                        {
+                            "DiscountType": "InternalFamily",
+                            "Description": "Скидка по семейному тарифу"
+                        },
+                        {
+                            "DiscountType": "UniversalCard",
+                            "Description": "Скидка по дорожной карте"
+                        },
+                        {
+                            "DiscountType": "BusinessTravelCard",
+                            "Description": "Оформление по Деловому проездному"
+                        }
+                    ],
+                    "AllowedTariffs": [],
+                    "InfoRequestSchema": "StandardIncludingInvalids",
+                    "TotalPlaceQuantity": 4,
+                    "PlaceReservationTypes": [
+                        "Usual"
+                    ],
+                    "IsThreeHoursReservationAvailable": false,
+                    "IsMealOptionPossible": false,
+                    "IsAdditionalMealOptionPossible": false,
+                    "IsOnRequestMealOptionPossible": false,
+                    "IsTransitDocumentRequired": false,
+                    "IsInterstate": false,
+                    "ClientFeeCalculation": null,
+                    "AgentFeeCalculation": null,
+                    "HasNonBrandedCars": true,
+                    "TripPointQuantity": 579,
+                    "HasPlacesForBusinessTravelBooking": false,
+                    "IsCarTransportationCoaches": false,
+                    "ServiceClassName": "",
+                    "HasFssBenefit": true
+                },
+                {
+                    "Carriers": [
+                        "ФПК"
+                    ],
+                    "CarrierDisplayNames": [
+                        "ФПК"
+                    ],
+                    "ServiceClasses": [
+                        "2А"
+                    ],
+                    "MinPrice": 1937.1,
+                    "MaxPrice": 2141.0,
+                    "CarType": "Compartment",
+                    "CarTypeName": "КУПЕ",
+                    "PlaceQuantity": 0,
+                    "LowerPlaceQuantity": 9,
+                    "UpperPlaceQuantity": 20,
+                    "LowerSidePlaceQuantity": 0,
+                    "UpperSidePlaceQuantity": 0,
+                    "MalePlaceQuantity": 15,
+                    "FemalePlaceQuantity": 4,
+                    "EmptyCabinQuantity": 0,
+                    "MixedCabinQuantity": 10,
+                    "IsSaleForbidden": false,
+                    "AvailabilityIndication": "Available",
+                    "CarDescriptions": [
+                        "МЖ Ж У0"
+                    ],
+                    "ServiceClassNameRu": null,
+                    "ServiceClassNameEn": null,
+                    "InternationalServiceClasses": [
+                        ""
+                    ],
+                    "ServiceCosts": [
+                        287.0
+                    ],
+                    "IsBeddingSelectionPossible": false,
+                    "BoardingSystemTypes": [
+                        "PassengerBoardingControl"
+                    ],
+                    "HasElectronicRegistration": true,
+                    "HasGenderCabins": true,
+                    "HasPlaceNumeration": true,
+                    "HasPlacesNearPlayground": false,
+                    "HasPlacesNearPets": true,
+                    "HasPlacesForDisabledPersons": false,
+                    "HasPlacesNearBabies": false,
+                    "AvailableBaggageTypes": [
+                        {
+                            "Type": "HandLuggage",
+                            "Name": "Ручная кладь",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "OversizedLuggage",
+                            "Name": "Негабаритный багаж",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "LuggageInBaggageRoom",
+                            "Name": "Багаж в специально оборудованных купе",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "PetTransportation",
+                            "Name": "Домашние животные",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        }
+                    ],
+                    "HasNonRefundableTariff": false,
+                    "Discounts": [
+                        {
+                            "DiscountType": "Pupil",
+                            "Description": "Скидка для школьников"
+                        },
+                        {
+                            "DiscountType": "Birthday",
+                            "Description": "Скидка по тарифу ДеньР (день рождения в день отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "BirthdayAccompanying",
+                            "Description": "Скидка по тарифу ДеньС (сопровождение именинника, если его день рождения в дату отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "Kupek",
+                            "Description": "Скидка по тарифу Купек (выкуп одновременно 4-х мест в вагоне купе)"
+                        },
+                        {
+                            "DiscountType": "InternalFamily",
+                            "Description": "Скидка по семейному тарифу"
+                        },
+                        {
+                            "DiscountType": "UniversalCard",
+                            "Description": "Скидка по дорожной карте"
+                        },
+                        {
+                            "DiscountType": "BusinessTravelCard",
+                            "Description": "Оформление по Деловому проездному"
+                        }
+                    ],
+                    "AllowedTariffs": [],
+                    "InfoRequestSchema": "StandardIncludingInvalids",
+                    "TotalPlaceQuantity": 29,
+                    "PlaceReservationTypes": [
+                        "Usual"
+                    ],
+                    "IsThreeHoursReservationAvailable": false,
+                    "IsMealOptionPossible": false,
+                    "IsAdditionalMealOptionPossible": false,
+                    "IsOnRequestMealOptionPossible": false,
+                    "IsTransitDocumentRequired": false,
+                    "IsInterstate": false,
+                    "ClientFeeCalculation": null,
+                    "AgentFeeCalculation": null,
+                    "HasNonBrandedCars": true,
+                    "TripPointQuantity": 579,
+                    "HasPlacesForBusinessTravelBooking": false,
+                    "IsCarTransportationCoaches": false,
+                    "ServiceClassName": "",
+                    "HasFssBenefit": true
+                },
+                {
+                    "Carriers": [
+                        "ФПК"
+                    ],
+                    "CarrierDisplayNames": [
+                        "ФПК"
+                    ],
+                    "ServiceClasses": [
+                        "2Ц"
+                    ],
+                    "MinPrice": 1937.1,
+                    "MaxPrice": 1937.1,
+                    "CarType": "Compartment",
+                    "CarTypeName": "КУПЕ",
+                    "PlaceQuantity": 0,
+                    "LowerPlaceQuantity": 0,
+                    "UpperPlaceQuantity": 3,
+                    "LowerSidePlaceQuantity": 0,
+                    "UpperSidePlaceQuantity": 0,
+                    "MalePlaceQuantity": 0,
+                    "FemalePlaceQuantity": 0,
+                    "EmptyCabinQuantity": 0,
+                    "MixedCabinQuantity": 0,
+                    "IsSaleForbidden": false,
+                    "AvailabilityIndication": "Available",
+                    "CarDescriptions": [
+                        "У0"
+                    ],
+                    "ServiceClassNameRu": null,
+                    "ServiceClassNameEn": null,
+                    "InternationalServiceClasses": [
+                        ""
+                    ],
+                    "ServiceCosts": [
+                        287.0
+                    ],
+                    "IsBeddingSelectionPossible": false,
+                    "BoardingSystemTypes": [
+                        "PassengerBoardingControl"
+                    ],
+                    "HasElectronicRegistration": true,
+                    "HasGenderCabins": false,
+                    "HasPlaceNumeration": true,
+                    "HasPlacesNearPlayground": false,
+                    "HasPlacesNearPets": false,
+                    "HasPlacesForDisabledPersons": false,
+                    "HasPlacesNearBabies": false,
+                    "AvailableBaggageTypes": [
+                        {
+                            "Type": "HandLuggage",
+                            "Name": "Ручная кладь",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "OversizedLuggage",
+                            "Name": "Негабаритный багаж",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "LuggageInBaggageRoom",
+                            "Name": "Багаж в специально оборудованных купе",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        }
+                    ],
+                    "HasNonRefundableTariff": false,
+                    "Discounts": [
+                        {
+                            "DiscountType": "Pupil",
+                            "Description": "Скидка для школьников"
+                        },
+                        {
+                            "DiscountType": "Birthday",
+                            "Description": "Скидка по тарифу ДеньР (день рождения в день отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "BirthdayAccompanying",
+                            "Description": "Скидка по тарифу ДеньС (сопровождение именинника, если его день рождения в дату отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "Kupek",
+                            "Description": "Скидка по тарифу Купек (выкуп одновременно 4-х мест в вагоне купе)"
+                        },
+                        {
+                            "DiscountType": "InternalFamily",
+                            "Description": "Скидка по семейному тарифу"
+                        },
+                        {
+                            "DiscountType": "UniversalCard",
+                            "Description": "Скидка по дорожной карте"
+                        },
+                        {
+                            "DiscountType": "BusinessTravelCard",
+                            "Description": "Оформление по Деловому проездному"
+                        }
+                    ],
+                    "AllowedTariffs": [],
+                    "InfoRequestSchema": "StandardIncludingInvalids",
+                    "TotalPlaceQuantity": 3,
+                    "PlaceReservationTypes": [
+                        "Usual"
+                    ],
+                    "IsThreeHoursReservationAvailable": false,
+                    "IsMealOptionPossible": false,
+                    "IsAdditionalMealOptionPossible": false,
+                    "IsOnRequestMealOptionPossible": false,
+                    "IsTransitDocumentRequired": false,
+                    "IsInterstate": false,
+                    "ClientFeeCalculation": null,
+                    "AgentFeeCalculation": null,
+                    "HasNonBrandedCars": true,
+                    "TripPointQuantity": 579,
+                    "HasPlacesForBusinessTravelBooking": false,
+                    "IsCarTransportationCoaches": false,
+                    "ServiceClassName": "",
+                    "HasFssBenefit": true
+                },
+                {
+                    "Carriers": [
+                        "ФПК"
+                    ],
+                    "CarrierDisplayNames": [
+                        "ФПК"
+                    ],
+                    "ServiceClasses": [
+                        "2Ц"
+                    ],
+                    "MinPrice": 1937.1,
+                    "MaxPrice": 2141.0,
+                    "CarType": "Compartment",
+                    "CarTypeName": "КУПЕ",
+                    "PlaceQuantity": 0,
+                    "LowerPlaceQuantity": 21,
+                    "UpperPlaceQuantity": 41,
+                    "LowerSidePlaceQuantity": 0,
+                    "UpperSidePlaceQuantity": 0,
+                    "MalePlaceQuantity": 0,
+                    "FemalePlaceQuantity": 0,
+                    "EmptyCabinQuantity": 0,
+                    "MixedCabinQuantity": 0,
+                    "IsSaleForbidden": false,
+                    "AvailabilityIndication": "Available",
+                    "CarDescriptions": [
+                        "У0"
+                    ],
+                    "ServiceClassNameRu": null,
+                    "ServiceClassNameEn": null,
+                    "InternationalServiceClasses": [
+                        ""
+                    ],
+                    "ServiceCosts": [
+                        287.0
+                    ],
+                    "IsBeddingSelectionPossible": false,
+                    "BoardingSystemTypes": [
+                        "PassengerBoardingControl"
+                    ],
+                    "HasElectronicRegistration": true,
+                    "HasGenderCabins": false,
+                    "HasPlaceNumeration": true,
+                    "HasPlacesNearPlayground": false,
+                    "HasPlacesNearPets": false,
+                    "HasPlacesForDisabledPersons": false,
+                    "HasPlacesNearBabies": false,
+                    "AvailableBaggageTypes": [
+                        {
+                            "Type": "HandLuggage",
+                            "Name": "Ручная кладь",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "OversizedLuggage",
+                            "Name": "Негабаритный багаж",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "LuggageInBaggageRoom",
+                            "Name": "Багаж в специально оборудованных купе",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        }
+                    ],
+                    "HasNonRefundableTariff": false,
+                    "Discounts": [
+                        {
+                            "DiscountType": "Pupil",
+                            "Description": "Скидка для школьников"
+                        },
+                        {
+                            "DiscountType": "Birthday",
+                            "Description": "Скидка по тарифу ДеньР (день рождения в день отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "BirthdayAccompanying",
+                            "Description": "Скидка по тарифу ДеньС (сопровождение именинника, если его день рождения в дату отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "Kupek",
+                            "Description": "Скидка по тарифу Купек (выкуп одновременно 4-х мест в вагоне купе)"
+                        },
+                        {
+                            "DiscountType": "InternalFamily",
+                            "Description": "Скидка по семейному тарифу"
+                        },
+                        {
+                            "DiscountType": "UniversalCard",
+                            "Description": "Скидка по дорожной карте"
+                        },
+                        {
+                            "DiscountType": "BusinessTravelCard",
+                            "Description": "Оформление по Деловому проездному"
+                        }
+                    ],
+                    "AllowedTariffs": [],
+                    "InfoRequestSchema": "StandardIncludingInvalids",
+                    "TotalPlaceQuantity": 62,
+                    "PlaceReservationTypes": [
+                        "Usual"
+                    ],
+                    "IsThreeHoursReservationAvailable": false,
+                    "IsMealOptionPossible": false,
+                    "IsAdditionalMealOptionPossible": false,
+                    "IsOnRequestMealOptionPossible": false,
+                    "IsTransitDocumentRequired": false,
+                    "IsInterstate": false,
+                    "ClientFeeCalculation": null,
+                    "AgentFeeCalculation": null,
+                    "HasNonBrandedCars": true,
+                    "TripPointQuantity": 579,
+                    "HasPlacesForBusinessTravelBooking": false,
+                    "IsCarTransportationCoaches": false,
+                    "ServiceClassName": "",
+                    "HasFssBenefit": true
+                },
+                {
+                    "Carriers": [
+                        "ФПК"
+                    ],
+                    "CarrierDisplayNames": [
+                        "ФПК"
+                    ],
+                    "ServiceClasses": [
+                        "2К"
+                    ],
+                    "MinPrice": 1157.0,
+                    "MaxPrice": 1157.0,
+                    "CarType": "Compartment",
+                    "CarTypeName": "КУПЕ",
+                    "PlaceQuantity": 2,
+                    "LowerPlaceQuantity": 0,
+                    "UpperPlaceQuantity": 0,
+                    "LowerSidePlaceQuantity": 0,
+                    "UpperSidePlaceQuantity": 0,
+                    "MalePlaceQuantity": 0,
+                    "FemalePlaceQuantity": 0,
+                    "EmptyCabinQuantity": 0,
+                    "MixedCabinQuantity": 0,
+                    "IsSaleForbidden": false,
+                    "AvailabilityIndication": "Available",
+                    "CarDescriptions": [
+                        "* И Ж"
+                    ],
+                    "ServiceClassNameRu": null,
+                    "ServiceClassNameEn": null,
+                    "InternationalServiceClasses": [
+                        ""
+                    ],
+                    "ServiceCosts": [
+                        230.0
+                    ],
+                    "IsBeddingSelectionPossible": false,
+                    "BoardingSystemTypes": [
+                        "PassengerBoardingControl"
+                    ],
+                    "HasElectronicRegistration": true,
+                    "HasGenderCabins": false,
+                    "HasPlaceNumeration": true,
+                    "HasPlacesNearPlayground": false,
+                    "HasPlacesNearPets": true,
+                    "HasPlacesForDisabledPersons": true,
+                    "HasPlacesNearBabies": false,
+                    "AvailableBaggageTypes": [
+                        {
+                            "Type": "HandLuggage",
+                            "Name": "Ручная кладь",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "OversizedLuggage",
+                            "Name": "Негабаритный багаж",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "LuggageInBaggageRoom",
+                            "Name": "Багаж в специально оборудованных купе",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "PetTransportation",
+                            "Name": "Домашние животные",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        }
+                    ],
+                    "HasNonRefundableTariff": false,
+                    "Discounts": [
+                        {
+                            "DiscountType": "Pupil",
+                            "Description": "Скидка для школьников"
+                        },
+                        {
+                            "DiscountType": "Birthday",
+                            "Description": "Скидка по тарифу ДеньР (день рождения в день отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "BirthdayAccompanying",
+                            "Description": "Скидка по тарифу ДеньС (сопровождение именинника, если его день рождения в дату отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "Kupek",
+                            "Description": "Скидка по тарифу Купек (выкуп одновременно 4-х мест в вагоне купе)"
+                        },
+                        {
+                            "DiscountType": "InternalFamily",
+                            "Description": "Скидка по семейному тарифу"
+                        },
+                        {
+                            "DiscountType": "UniversalCard",
+                            "Description": "Скидка по дорожной карте"
+                        },
+                        {
+                            "DiscountType": "BusinessTravelCard",
+                            "Description": "Оформление по Деловому проездному"
+                        }
+                    ],
+                    "AllowedTariffs": [],
+                    "InfoRequestSchema": "StandardIncludingInvalids",
+                    "TotalPlaceQuantity": 2,
+                    "PlaceReservationTypes": [
+                        "Usual"
+                    ],
+                    "IsThreeHoursReservationAvailable": false,
+                    "IsMealOptionPossible": false,
+                    "IsAdditionalMealOptionPossible": false,
+                    "IsOnRequestMealOptionPossible": false,
+                    "IsTransitDocumentRequired": false,
+                    "IsInterstate": false,
+                    "ClientFeeCalculation": null,
+                    "AgentFeeCalculation": null,
+                    "HasNonBrandedCars": true,
+                    "TripPointQuantity": 346,
+                    "HasPlacesForBusinessTravelBooking": false,
+                    "IsCarTransportationCoaches": false,
+                    "ServiceClassName": "",
+                    "HasFssBenefit": true
+                },
+                {
+                    "Carriers": [
+                        "ФПК"
+                    ],
+                    "CarrierDisplayNames": [
+                        "ФПК"
+                    ],
+                    "ServiceClasses": [
+                        ""
+                    ],
+                    "MinPrice": 0.0,
+                    "MaxPrice": 0.0,
+                    "CarType": "Baggage",
+                    "CarTypeName": "БАГАЖ",
+                    "PlaceQuantity": 8,
+                    "LowerPlaceQuantity": 0,
+                    "UpperPlaceQuantity": 0,
+                    "LowerSidePlaceQuantity": 0,
+                    "UpperSidePlaceQuantity": 0,
+                    "MalePlaceQuantity": 0,
+                    "FemalePlaceQuantity": 0,
+                    "EmptyCabinQuantity": 0,
+                    "MixedCabinQuantity": 0,
+                    "IsSaleForbidden": false,
+                    "AvailabilityIndication": "Available",
+                    "CarDescriptions": [
+                        null
+                    ],
+                    "ServiceClassNameRu": null,
+                    "ServiceClassNameEn": null,
+                    "InternationalServiceClasses": [
+                        ""
+                    ],
+                    "ServiceCosts": [
+                        0.0
+                    ],
+                    "IsBeddingSelectionPossible": false,
+                    "BoardingSystemTypes": [
+                        "NoValue"
+                    ],
+                    "HasElectronicRegistration": false,
+                    "HasGenderCabins": false,
+                    "HasPlaceNumeration": true,
+                    "HasPlacesNearPlayground": false,
+                    "HasPlacesNearPets": false,
+                    "HasPlacesForDisabledPersons": false,
+                    "HasPlacesNearBabies": false,
+                    "AvailableBaggageTypes": [],
+                    "HasNonRefundableTariff": false,
+                    "Discounts": [
+                        {
+                            "DiscountType": "Birthday",
+                            "Description": "Скидка по тарифу ДеньР (день рождения в день отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "BirthdayAccompanying",
+                            "Description": "Скидка по тарифу ДеньС (сопровождение именинника, если его день рождения в дату отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "UniversalCard",
+                            "Description": "Скидка по дорожной карте"
+                        },
+                        {
+                            "DiscountType": "BusinessTravelCard",
+                            "Description": "Оформление по Деловому проездному"
+                        }
+                    ],
+                    "AllowedTariffs": [],
+                    "InfoRequestSchema": "StandardIncludingInvalids",
+                    "TotalPlaceQuantity": 8,
+                    "PlaceReservationTypes": [
+                        "Usual"
+                    ],
+                    "IsThreeHoursReservationAvailable": false,
+                    "IsMealOptionPossible": false,
+                    "IsAdditionalMealOptionPossible": false,
+                    "IsOnRequestMealOptionPossible": false,
+                    "IsTransitDocumentRequired": false,
+                    "IsInterstate": false,
+                    "ClientFeeCalculation": null,
+                    "AgentFeeCalculation": null,
+                    "HasNonBrandedCars": true,
+                    "TripPointQuantity": 0,
+                    "HasPlacesForBusinessTravelBooking": false,
+                    "IsCarTransportationCoaches": false,
+                    "ServiceClassName": "",
+                    "HasFssBenefit": false
+                }
+            ],
+            "IsFromSchedule": false,
+            "IsTourPackagePossible": false,
+            "CarTransportationsFreePlacesCount": null,
+            "ActualMovement": null,
+            "CategoryId": null,
+            "ScheduleId": null,
+            "BaggageCarsThreads": [
+                "А"
+            ],
+            "CarTransportationCoachesThreads": null,
+            "Provider": "P1",
+            "IsWaitListAvailable": false,
+            "HasElectronicRegistration": true,
+            "HasCarTransportationCoaches": false,
+            "HasDynamicPricingCars": false,
+            "HasTwoStoreyCars": true,
+            "HasSpecialSaleMode": false,
+            "Carriers": [
+                "ФПК"
+            ],
+            "CarrierDisplayNames": [
+                "ФПК"
+            ],
+            "Id": 2,
+            "IsBranded": false,
+            "TrainNumber": "160А",
+            "TrainNumberToGetRoute": "160А",
+            "DisplayTrainNumber": "160А",
+            "TrainDescription": "СК",
+            "TrainName": "",
+            "TrainNameEn": "",
+            "TransportType": "Train",
+            "OriginName": "Петрозаводск-Пасс",
+            "InitialStationName": "Петрозаводск-Пасс",
+            "OriginStationCode": "2004300",
+            "OriginStationInfo": {
+                "StationName": "Петрозаводск-Пасс",
+                "StationCode": "2004300",
+                "CnsiCode": "1",
+                "RegionName": "Республика Карелия",
+                "IsoCode": "RU-KR"
+            },
+            "InitialStationInfo": {
+                "StationName": "Петрозаводск-Пасс",
+                "StationCode": "2004300",
+                "CnsiCode": "1",
+                "RegionName": "Республика Карелия",
+                "IsoCode": "RU-KR"
+            },
+            "InitialTrainStationCode": "2004300",
+            "InitialTrainStationCnsiCode": "1",
+            "DestinationName": "Санкт-Петербург-Ладожский",
+            "FinalStationName": "Москва Октябрьская (Ленинградский вокзал)",
+            "DestinationStationCode": "2004006",
+            "DestinationStationInfo": {
+                "StationName": "Санкт-Петербург-Ладожский",
+                "StationCode": "2004006",
+                "CnsiCode": "531",
+                "RegionName": "Санкт-Петербург",
+                "IsoCode": "RU-SPE"
+            },
+            "FinalStationInfo": {
+                "StationName": "Москва Октябрьская",
+                "StationCode": "2006004",
+                "CnsiCode": "1108",
+                "RegionName": "Москва",
+                "IsoCode": "RU-MOW"
+            },
+            "FinalTrainStationCode": "2006004",
+            "FinalTrainStationCnsiCode": "1108",
+            "DestinationNames": [
+                "МОСКВА ОКТ"
+            ],
+            "FinalStationNames": [
+                "МОСКВА ОКТ"
+            ],
+            "DepartureDateTime": "2024-03-31T13:50:00",
+            "LocalDepartureDateTime": "2024-03-31T13:50:00",
+            "ArrivalDateTime": "2024-04-01T01:49:00",
+            "LocalArrivalDateTime": "2024-04-01T01:49:00",
+            "ArrivalDateTimes": [
+                "2024-04-01T01:49:00"
+            ],
+            "LocalArrivalDateTimes": [
+                "2024-04-01T01:49:00"
+            ],
+            "DepartureDateFromFormingStation": "2024-03-31T13:50:00",
+            "DepartureStopTime": 0,
+            "ArrivalStopTime": 15,
+            "TripDuration": 719.0,
+            "TripDistance": 600,
+            "IsSuburban": false,
+            "IsComponent": false,
+            "CarServices": [
+                "Bedclothes",
+                "InfotainmentService"
+            ],
+            "IsSaleForbidden": false,
+            "IsTicketPrintRequiredForBoarding": false,
+            "BookingSystem": "Express3",
+            "IsVrStorageSystem": false,
+            "PlacesStorageType": "Russia",
+            "BoardingSystemTypes": [
+                "PassengerBoardingControl",
+                "NoValue"
+            ],
+            "TrainBrandCode": "3015",
+            "TrainClassNames": null,
+            "ServiceProvider": "B2B_RZD",
+            "DestinationStationName": "Санкт-Петербург-Ладожский (Ладожский вокзал)",
+            "OriginStationName": "Петрозаводск-Пасс",
+            "IsPlaceRangeAllowed": true,
+            "IsTrainRouteAllowed": true
+        },
+        {
+            "CarGroups": [
+                {
+                    "Carriers": [
+                        "ФПК"
+                    ],
+                    "CarrierDisplayNames": [
+                        "ФПК"
+                    ],
+                    "ServiceClasses": [
+                        "1Э"
+                    ],
+                    "MinPrice": 9144.0,
+                    "MaxPrice": 9144.0,
+                    "CarType": "Luxury",
+                    "CarTypeName": "СВ",
+                    "PlaceQuantity": 0,
+                    "LowerPlaceQuantity": 1,
+                    "UpperPlaceQuantity": 0,
+                    "LowerSidePlaceQuantity": 0,
+                    "UpperSidePlaceQuantity": 0,
+                    "MalePlaceQuantity": 0,
+                    "FemalePlaceQuantity": 0,
+                    "EmptyCabinQuantity": 0,
+                    "MixedCabinQuantity": 1,
+                    "IsSaleForbidden": false,
+                    "AvailabilityIndication": "Available",
+                    "CarDescriptions": [
+                        "МЖ У1"
+                    ],
+                    "ServiceClassNameRu": null,
+                    "ServiceClassNameEn": null,
+                    "InternationalServiceClasses": [
+                        ""
+                    ],
+                    "ServiceCosts": [
+                        3287.0
+                    ],
+                    "IsBeddingSelectionPossible": false,
+                    "BoardingSystemTypes": [
+                        "PassengerBoardingControl"
+                    ],
+                    "HasElectronicRegistration": true,
+                    "HasGenderCabins": true,
+                    "HasPlaceNumeration": true,
+                    "HasPlacesNearPlayground": false,
+                    "HasPlacesNearPets": false,
+                    "HasPlacesForDisabledPersons": false,
+                    "HasPlacesNearBabies": false,
+                    "AvailableBaggageTypes": [
+                        {
+                            "Type": "HandLuggage",
+                            "Name": "Ручная кладь",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "OversizedLuggage",
+                            "Name": "Негабаритный багаж",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "LuggageInBaggageRoom",
+                            "Name": "Багаж в специально оборудованных купе",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        }
+                    ],
+                    "HasNonRefundableTariff": false,
+                    "Discounts": [
+                        {
+                            "DiscountType": "Birthday",
+                            "Description": "Скидка по тарифу ДеньР (день рождения в день отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "BirthdayAccompanying",
+                            "Description": "Скидка по тарифу ДеньС (сопровождение именинника, если его день рождения в дату отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "Single",
+                            "Description": "Скидка по тарифу Сингл (выкуп одновременно 2-х мест в вагоне на одного человека)"
+                        },
+                        {
+                            "DiscountType": "UniversalCard",
+                            "Description": "Скидка по дорожной карте"
+                        },
+                        {
+                            "DiscountType": "BusinessTravelCard",
+                            "Description": "Оформление по Деловому проездному"
+                        }
+                    ],
+                    "AllowedTariffs": [],
+                    "InfoRequestSchema": "StandardIncludingInvalids",
+                    "TotalPlaceQuantity": 1,
+                    "PlaceReservationTypes": [
+                        "Usual"
+                    ],
+                    "IsThreeHoursReservationAvailable": false,
+                    "IsMealOptionPossible": true,
+                    "IsAdditionalMealOptionPossible": false,
+                    "IsOnRequestMealOptionPossible": false,
+                    "IsTransitDocumentRequired": false,
+                    "IsInterstate": false,
+                    "ClientFeeCalculation": null,
+                    "AgentFeeCalculation": null,
+                    "HasNonBrandedCars": false,
+                    "TripPointQuantity": 2737,
+                    "HasPlacesForBusinessTravelBooking": false,
+                    "IsCarTransportationCoaches": false,
+                    "ServiceClassName": "",
+                    "HasFssBenefit": false
+                },
+                {
+                    "Carriers": [
+                        "ФПК"
+                    ],
+                    "CarrierDisplayNames": [
+                        "ФПК"
+                    ],
+                    "ServiceClasses": [
+                        "2Т"
+                    ],
+                    "MinPrice": 5665.4,
+                    "MaxPrice": 5665.4,
+                    "CarType": "Compartment",
+                    "CarTypeName": "КУПЕ",
+                    "PlaceQuantity": 0,
+                    "LowerPlaceQuantity": 1,
+                    "UpperPlaceQuantity": 0,
+                    "LowerSidePlaceQuantity": 0,
+                    "UpperSidePlaceQuantity": 0,
+                    "MalePlaceQuantity": 0,
+                    "FemalePlaceQuantity": 0,
+                    "EmptyCabinQuantity": 0,
+                    "MixedCabinQuantity": 0,
+                    "IsSaleForbidden": false,
+                    "AvailabilityIndication": "Available",
+                    "CarDescriptions": [
+                        "У1"
+                    ],
+                    "ServiceClassNameRu": null,
+                    "ServiceClassNameEn": null,
+                    "InternationalServiceClasses": [
+                        ""
+                    ],
+                    "ServiceCosts": [
+                        1095.0
+                    ],
+                    "IsBeddingSelectionPossible": false,
+                    "BoardingSystemTypes": [
+                        "PassengerBoardingControl"
+                    ],
+                    "HasElectronicRegistration": true,
+                    "HasGenderCabins": false,
+                    "HasPlaceNumeration": true,
+                    "HasPlacesNearPlayground": false,
+                    "HasPlacesNearPets": false,
+                    "HasPlacesForDisabledPersons": false,
+                    "HasPlacesNearBabies": false,
+                    "AvailableBaggageTypes": [
+                        {
+                            "Type": "HandLuggage",
+                            "Name": "Ручная кладь",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "OversizedLuggage",
+                            "Name": "Негабаритный багаж",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "LuggageInBaggageRoom",
+                            "Name": "Багаж в специально оборудованных купе",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        }
+                    ],
+                    "HasNonRefundableTariff": false,
+                    "Discounts": [
+                        {
+                            "DiscountType": "Birthday",
+                            "Description": "Скидка по тарифу ДеньР (день рождения в день отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "BirthdayAccompanying",
+                            "Description": "Скидка по тарифу ДеньС (сопровождение именинника, если его день рождения в дату отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "Kupek",
+                            "Description": "Скидка по тарифу Купек (выкуп одновременно 4-х мест в вагоне купе)"
+                        },
+                        {
+                            "DiscountType": "InternalFamily",
+                            "Description": "Скидка по семейному тарифу"
+                        },
+                        {
+                            "DiscountType": "UniversalCard",
+                            "Description": "Скидка по дорожной карте"
+                        },
+                        {
+                            "DiscountType": "BusinessTravelCard",
+                            "Description": "Оформление по Деловому проездному"
+                        }
+                    ],
+                    "AllowedTariffs": [],
+                    "InfoRequestSchema": "StandardIncludingInvalids",
+                    "TotalPlaceQuantity": 1,
+                    "PlaceReservationTypes": [
+                        "Usual"
+                    ],
+                    "IsThreeHoursReservationAvailable": false,
+                    "IsMealOptionPossible": true,
+                    "IsAdditionalMealOptionPossible": true,
+                    "IsOnRequestMealOptionPossible": false,
+                    "IsTransitDocumentRequired": false,
+                    "IsInterstate": false,
+                    "ClientFeeCalculation": null,
+                    "AgentFeeCalculation": null,
+                    "HasNonBrandedCars": false,
+                    "TripPointQuantity": 1696,
+                    "HasPlacesForBusinessTravelBooking": false,
+                    "IsCarTransportationCoaches": false,
+                    "ServiceClassName": "",
+                    "HasFssBenefit": false
+                },
+                {
+                    "Carriers": [
+                        "ФПК"
+                    ],
+                    "CarrierDisplayNames": [
+                        "ФПК"
+                    ],
+                    "ServiceClasses": [
+                        "2Э"
+                    ],
+                    "MinPrice": 4294.3,
+                    "MaxPrice": 4294.3,
+                    "CarType": "Compartment",
+                    "CarTypeName": "КУПЕ",
+                    "PlaceQuantity": 0,
+                    "LowerPlaceQuantity": 0,
+                    "UpperPlaceQuantity": 1,
+                    "LowerSidePlaceQuantity": 0,
+                    "UpperSidePlaceQuantity": 0,
+                    "MalePlaceQuantity": 0,
+                    "FemalePlaceQuantity": 0,
+                    "EmptyCabinQuantity": 0,
+                    "MixedCabinQuantity": 0,
+                    "IsSaleForbidden": false,
+                    "AvailabilityIndication": "Available",
+                    "CarDescriptions": [
+                        "У1"
+                    ],
+                    "ServiceClassNameRu": null,
+                    "ServiceClassNameEn": null,
+                    "InternationalServiceClasses": [
+                        ""
+                    ],
+                    "ServiceCosts": [
+                        1095.0
+                    ],
+                    "IsBeddingSelectionPossible": false,
+                    "BoardingSystemTypes": [
+                        "PassengerBoardingControl"
+                    ],
+                    "HasElectronicRegistration": true,
+                    "HasGenderCabins": false,
+                    "HasPlaceNumeration": true,
+                    "HasPlacesNearPlayground": false,
+                    "HasPlacesNearPets": false,
+                    "HasPlacesForDisabledPersons": false,
+                    "HasPlacesNearBabies": false,
+                    "AvailableBaggageTypes": [
+                        {
+                            "Type": "HandLuggage",
+                            "Name": "Ручная кладь",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "OversizedLuggage",
+                            "Name": "Негабаритный багаж",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "LuggageInBaggageRoom",
+                            "Name": "Багаж в специально оборудованных купе",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        }
+                    ],
+                    "HasNonRefundableTariff": false,
+                    "Discounts": [
+                        {
+                            "DiscountType": "Birthday",
+                            "Description": "Скидка по тарифу ДеньР (день рождения в день отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "BirthdayAccompanying",
+                            "Description": "Скидка по тарифу ДеньС (сопровождение именинника, если его день рождения в дату отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "Kupek",
+                            "Description": "Скидка по тарифу Купек (выкуп одновременно 4-х мест в вагоне купе)"
+                        },
+                        {
+                            "DiscountType": "InternalFamily",
+                            "Description": "Скидка по семейному тарифу"
+                        },
+                        {
+                            "DiscountType": "UniversalCard",
+                            "Description": "Скидка по дорожной карте"
+                        },
+                        {
+                            "DiscountType": "BusinessTravelCard",
+                            "Description": "Оформление по Деловому проездному"
+                        }
+                    ],
+                    "AllowedTariffs": [],
+                    "InfoRequestSchema": "StandardIncludingInvalids",
+                    "TotalPlaceQuantity": 1,
+                    "PlaceReservationTypes": [
+                        "Usual"
+                    ],
+                    "IsThreeHoursReservationAvailable": false,
+                    "IsMealOptionPossible": true,
+                    "IsAdditionalMealOptionPossible": true,
+                    "IsOnRequestMealOptionPossible": false,
+                    "IsTransitDocumentRequired": false,
+                    "IsInterstate": false,
+                    "ClientFeeCalculation": null,
+                    "AgentFeeCalculation": null,
+                    "HasNonBrandedCars": false,
+                    "TripPointQuantity": 1285,
+                    "HasPlacesForBusinessTravelBooking": false,
+                    "IsCarTransportationCoaches": false,
+                    "ServiceClassName": "",
+                    "HasFssBenefit": false
+                },
+                {
+                    "Carriers": [
+                        "ФПК"
+                    ],
+                    "CarrierDisplayNames": [
+                        "ФПК"
+                    ],
+                    "ServiceClasses": [
+                        "3Б"
+                    ],
+                    "MinPrice": 2545.8,
+                    "MaxPrice": 2545.8,
+                    "CarType": "ReservedSeat",
+                    "CarTypeName": "ПЛАЦ",
+                    "PlaceQuantity": 0,
+                    "LowerPlaceQuantity": 0,
+                    "UpperPlaceQuantity": 0,
+                    "LowerSidePlaceQuantity": 0,
+                    "UpperSidePlaceQuantity": 1,
+                    "MalePlaceQuantity": 0,
+                    "FemalePlaceQuantity": 0,
+                    "EmptyCabinQuantity": 0,
+                    "MixedCabinQuantity": 0,
+                    "IsSaleForbidden": false,
+                    "AvailabilityIndication": "Available",
+                    "CarDescriptions": [
+                        "Ж"
+                    ],
+                    "ServiceClassNameRu": null,
+                    "ServiceClassNameEn": null,
+                    "InternationalServiceClasses": [
+                        ""
+                    ],
+                    "ServiceCosts": [
+                        208.3
+                    ],
+                    "IsBeddingSelectionPossible": true,
+                    "BoardingSystemTypes": [
+                        "PassengerBoardingControl"
+                    ],
+                    "HasElectronicRegistration": true,
+                    "HasGenderCabins": false,
+                    "HasPlaceNumeration": true,
+                    "HasPlacesNearPlayground": false,
+                    "HasPlacesNearPets": true,
+                    "HasPlacesForDisabledPersons": false,
+                    "HasPlacesNearBabies": false,
+                    "AvailableBaggageTypes": [
+                        {
+                            "Type": "HandLuggage",
+                            "Name": "Ручная кладь",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "OversizedLuggage",
+                            "Name": "Негабаритный багаж",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "LuggageInBaggageRoom",
+                            "Name": "Багаж в специально оборудованных купе",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "PetTransportation",
+                            "Name": "Домашние животные",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        }
+                    ],
+                    "HasNonRefundableTariff": false,
+                    "Discounts": [
+                        {
+                            "DiscountType": "Pupil",
+                            "Description": "Скидка для школьников"
+                        },
+                        {
+                            "DiscountType": "Birthday",
+                            "Description": "Скидка по тарифу ДеньР (день рождения в день отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "BirthdayAccompanying",
+                            "Description": "Скидка по тарифу ДеньС (сопровождение именинника, если его день рождения в дату отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "UniversalCard",
+                            "Description": "Скидка по дорожной карте"
+                        },
+                        {
+                            "DiscountType": "BusinessTravelCard",
+                            "Description": "Оформление по Деловому проездному"
+                        }
+                    ],
+                    "AllowedTariffs": [],
+                    "InfoRequestSchema": "StandardIncludingInvalids",
+                    "TotalPlaceQuantity": 1,
+                    "PlaceReservationTypes": [
+                        "Usual"
+                    ],
+                    "IsThreeHoursReservationAvailable": false,
+                    "IsMealOptionPossible": false,
+                    "IsAdditionalMealOptionPossible": true,
+                    "IsOnRequestMealOptionPossible": false,
+                    "IsTransitDocumentRequired": false,
+                    "IsInterstate": false,
+                    "ClientFeeCalculation": null,
+                    "AgentFeeCalculation": null,
+                    "HasNonBrandedCars": false,
+                    "TripPointQuantity": 762,
+                    "HasPlacesForBusinessTravelBooking": false,
+                    "IsCarTransportationCoaches": false,
+                    "ServiceClassName": "",
+                    "HasFssBenefit": false
+                },
+                {
+                    "Carriers": [
+                        "ФПК"
+                    ],
+                    "CarrierDisplayNames": [
+                        "ФПК"
+                    ],
+                    "ServiceClasses": [
+                        ""
+                    ],
+                    "MinPrice": 0.0,
+                    "MaxPrice": 0.0,
+                    "CarType": "Baggage",
+                    "CarTypeName": "БАГАЖ",
+                    "PlaceQuantity": 8,
+                    "LowerPlaceQuantity": 0,
+                    "UpperPlaceQuantity": 0,
+                    "LowerSidePlaceQuantity": 0,
+                    "UpperSidePlaceQuantity": 0,
+                    "MalePlaceQuantity": 0,
+                    "FemalePlaceQuantity": 0,
+                    "EmptyCabinQuantity": 0,
+                    "MixedCabinQuantity": 0,
+                    "IsSaleForbidden": false,
+                    "AvailabilityIndication": "Available",
+                    "CarDescriptions": [
+                        null
+                    ],
+                    "ServiceClassNameRu": null,
+                    "ServiceClassNameEn": null,
+                    "InternationalServiceClasses": [
+                        ""
+                    ],
+                    "ServiceCosts": [
+                        0.0
+                    ],
+                    "IsBeddingSelectionPossible": false,
+                    "BoardingSystemTypes": [
+                        "NoValue"
+                    ],
+                    "HasElectronicRegistration": false,
+                    "HasGenderCabins": false,
+                    "HasPlaceNumeration": true,
+                    "HasPlacesNearPlayground": false,
+                    "HasPlacesNearPets": false,
+                    "HasPlacesForDisabledPersons": false,
+                    "HasPlacesNearBabies": false,
+                    "AvailableBaggageTypes": [],
+                    "HasNonRefundableTariff": false,
+                    "Discounts": [
+                        {
+                            "DiscountType": "Birthday",
+                            "Description": "Скидка по тарифу ДеньР (день рождения в день отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "BirthdayAccompanying",
+                            "Description": "Скидка по тарифу ДеньС (сопровождение именинника, если его день рождения в дату отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "UniversalCard",
+                            "Description": "Скидка по дорожной карте"
+                        },
+                        {
+                            "DiscountType": "BusinessTravelCard",
+                            "Description": "Оформление по Деловому проездному"
+                        }
+                    ],
+                    "AllowedTariffs": [],
+                    "InfoRequestSchema": "StandardIncludingInvalids",
+                    "TotalPlaceQuantity": 8,
+                    "PlaceReservationTypes": [
+                        "Usual"
+                    ],
+                    "IsThreeHoursReservationAvailable": false,
+                    "IsMealOptionPossible": false,
+                    "IsAdditionalMealOptionPossible": false,
+                    "IsOnRequestMealOptionPossible": false,
+                    "IsTransitDocumentRequired": false,
+                    "IsInterstate": false,
+                    "ClientFeeCalculation": null,
+                    "AgentFeeCalculation": null,
+                    "HasNonBrandedCars": false,
+                    "TripPointQuantity": 0,
+                    "HasPlacesForBusinessTravelBooking": false,
+                    "IsCarTransportationCoaches": false,
+                    "ServiceClassName": "",
+                    "HasFssBenefit": false
+                }
+            ],
+            "IsFromSchedule": false,
+            "IsTourPackagePossible": false,
+            "CarTransportationsFreePlacesCount": null,
+            "ActualMovement": null,
+            "CategoryId": null,
+            "ScheduleId": null,
+            "BaggageCarsThreads": [
+                "А"
+            ],
+            "CarTransportationCoachesThreads": null,
+            "Provider": "P1",
+            "IsWaitListAvailable": false,
+            "HasElectronicRegistration": true,
+            "HasCarTransportationCoaches": false,
+            "HasDynamicPricingCars": false,
+            "HasTwoStoreyCars": false,
+            "HasSpecialSaleMode": false,
+            "Carriers": [
+                "ФПК"
+            ],
+            "CarrierDisplayNames": [
+                "ФПК"
+            ],
+            "Id": 3,
+            "IsBranded": true,
+            "TrainNumber": "015А",
+            "TrainNumberToGetRoute": "015А",
+            "DisplayTrainNumber": "015А",
+            "TrainDescription": "СК ФИРМ",
+            "TrainName": "Арктика",
+            "TrainNameEn": "Arctic",
+            "TransportType": "Train",
+            "OriginName": "Петрозаводск-Пасс",
+            "InitialStationName": "Мурманск",
+            "OriginStationCode": "2004300",
+            "OriginStationInfo": {
+                "StationName": "Петрозаводск-Пасс",
+                "StationCode": "2004300",
+                "CnsiCode": "1",
+                "RegionName": "Республика Карелия",
+                "IsoCode": "RU-KR"
+            },
+            "InitialStationInfo": {
+                "StationName": "Мурманск",
+                "StationCode": "2004200",
+                "CnsiCode": "197",
+                "RegionName": "Мурманская область",
+                "IsoCode": "RU-MUR"
+            },
+            "InitialTrainStationCode": "2004200",
+            "InitialTrainStationCnsiCode": "197",
+            "DestinationName": "Санкт-Петербург-Ладожский",
+            "FinalStationName": "Москва Октябрьская (Ленинградский вокзал)",
+            "DestinationStationCode": "2004006",
+            "DestinationStationInfo": {
+                "StationName": "Санкт-Петербург-Ладожский",
+                "StationCode": "2004006",
+                "CnsiCode": "531",
+                "RegionName": "Санкт-Петербург",
+                "IsoCode": "RU-SPE"
+            },
+            "FinalStationInfo": {
+                "StationName": "Москва Октябрьская",
+                "StationCode": "2006004",
+                "CnsiCode": "1108",
+                "RegionName": "Москва",
+                "IsoCode": "RU-MOW"
+            },
+            "FinalTrainStationCode": "2006004",
+            "FinalTrainStationCnsiCode": "1108",
+            "DestinationNames": [
+                "МОСКВА ОКТ"
+            ],
+            "FinalStationNames": [
+                "МОСКВА ОКТ"
+            ],
+            "DepartureDateTime": "2024-03-31T15:11:00",
+            "LocalDepartureDateTime": "2024-03-31T15:11:00",
+            "ArrivalDateTime": "2024-03-31T21:49:00",
+            "LocalArrivalDateTime": "2024-03-31T21:49:00",
+            "ArrivalDateTimes": [
+                "2024-03-31T21:49:00"
+            ],
+            "LocalArrivalDateTimes": [
+                "2024-03-31T21:49:00"
+            ],
+            "DepartureDateFromFormingStation": "2024-03-30T19:30:00",
+            "DepartureStopTime": 30,
+            "ArrivalStopTime": 54,
+            "TripDuration": 398.0,
+            "TripDistance": 395,
+            "IsSuburban": false,
+            "IsComponent": false,
+            "CarServices": [
+                "Meal",
+                "RestaurantCarOrBuffet",
+                "InfotainmentService"
+            ],
+            "IsSaleForbidden": false,
+            "IsTicketPrintRequiredForBoarding": false,
+            "BookingSystem": "Express3",
+            "IsVrStorageSystem": false,
+            "PlacesStorageType": "Russia",
+            "BoardingSystemTypes": [
+                "PassengerBoardingControl",
+                "NoValue"
+            ],
+            "TrainBrandCode": "3033",
+            "TrainClassNames": [
+                "BrandedTrain"
+            ],
+            "ServiceProvider": "B2B_RZD",
+            "DestinationStationName": "Санкт-Петербург-Ладожский (Ладожский вокзал)",
+            "OriginStationName": "Петрозаводск-Пасс",
+            "IsPlaceRangeAllowed": true,
+            "IsTrainRouteAllowed": true
+        },
+        {
+            "CarGroups": [
+                {
+                    "Carriers": [
+                        "ФПК"
+                    ],
+                    "CarrierDisplayNames": [
+                        "ФПК"
+                    ],
+                    "ServiceClasses": [
+                        "2А"
+                    ],
+                    "MinPrice": 1706.2,
+                    "MaxPrice": 2333.3,
+                    "CarType": "Compartment",
+                    "CarTypeName": "КУПЕ",
+                    "PlaceQuantity": 0,
+                    "LowerPlaceQuantity": 38,
+                    "UpperPlaceQuantity": 51,
+                    "LowerSidePlaceQuantity": 0,
+                    "UpperSidePlaceQuantity": 0,
+                    "MalePlaceQuantity": 0,
+                    "FemalePlaceQuantity": 0,
+                    "EmptyCabinQuantity": 0,
+                    "MixedCabinQuantity": 0,
+                    "IsSaleForbidden": false,
+                    "AvailabilityIndication": "Available",
+                    "CarDescriptions": [
+                        "Ж У0"
+                    ],
+                    "ServiceClassNameRu": null,
+                    "ServiceClassNameEn": null,
+                    "InternationalServiceClasses": [
+                        ""
+                    ],
+                    "ServiceCosts": [
+                        243.0
+                    ],
+                    "IsBeddingSelectionPossible": false,
+                    "BoardingSystemTypes": [
+                        "PassengerBoardingControl"
+                    ],
+                    "HasElectronicRegistration": true,
+                    "HasGenderCabins": false,
+                    "HasPlaceNumeration": true,
+                    "HasPlacesNearPlayground": false,
+                    "HasPlacesNearPets": true,
+                    "HasPlacesForDisabledPersons": false,
+                    "HasPlacesNearBabies": false,
+                    "AvailableBaggageTypes": [
+                        {
+                            "Type": "HandLuggage",
+                            "Name": "Ручная кладь",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "OversizedLuggage",
+                            "Name": "Негабаритный багаж",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "LuggageInBaggageRoom",
+                            "Name": "Багаж в специально оборудованных купе",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "PetTransportation",
+                            "Name": "Домашние животные",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        }
+                    ],
+                    "HasNonRefundableTariff": false,
+                    "Discounts": [
+                        {
+                            "DiscountType": "Pupil",
+                            "Description": "Скидка для школьников"
+                        },
+                        {
+                            "DiscountType": "Birthday",
+                            "Description": "Скидка по тарифу ДеньР (день рождения в день отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "BirthdayAccompanying",
+                            "Description": "Скидка по тарифу ДеньС (сопровождение именинника, если его день рождения в дату отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "Kupek",
+                            "Description": "Скидка по тарифу Купек (выкуп одновременно 4-х мест в вагоне купе)"
+                        },
+                        {
+                            "DiscountType": "InternalFamily",
+                            "Description": "Скидка по семейному тарифу"
+                        },
+                        {
+                            "DiscountType": "UniversalCard",
+                            "Description": "Скидка по дорожной карте"
+                        },
+                        {
+                            "DiscountType": "BusinessTravelCard",
+                            "Description": "Оформление по Деловому проездному"
+                        }
+                    ],
+                    "AllowedTariffs": [],
+                    "InfoRequestSchema": "StandardIncludingInvalids",
+                    "TotalPlaceQuantity": 89,
+                    "PlaceReservationTypes": [
+                        "Usual"
+                    ],
+                    "IsThreeHoursReservationAvailable": false,
+                    "IsMealOptionPossible": false,
+                    "IsAdditionalMealOptionPossible": false,
+                    "IsOnRequestMealOptionPossible": false,
+                    "IsTransitDocumentRequired": false,
+                    "IsInterstate": false,
+                    "ClientFeeCalculation": null,
+                    "AgentFeeCalculation": null,
+                    "HasNonBrandedCars": true,
+                    "TripPointQuantity": 510,
+                    "HasPlacesForBusinessTravelBooking": false,
+                    "IsCarTransportationCoaches": false,
+                    "ServiceClassName": "",
+                    "HasFssBenefit": true
+                },
+                {
+                    "Carriers": [
+                        "ФПК"
+                    ],
+                    "CarrierDisplayNames": [
+                        "ФПК"
+                    ],
+                    "ServiceClasses": [
+                        "2А"
+                    ],
+                    "MinPrice": 1706.2,
+                    "MaxPrice": 1706.2,
+                    "CarType": "Compartment",
+                    "CarTypeName": "КУПЕ",
+                    "PlaceQuantity": 0,
+                    "LowerPlaceQuantity": 0,
+                    "UpperPlaceQuantity": 4,
+                    "LowerSidePlaceQuantity": 0,
+                    "UpperSidePlaceQuantity": 0,
+                    "MalePlaceQuantity": 0,
+                    "FemalePlaceQuantity": 2,
+                    "EmptyCabinQuantity": 0,
+                    "MixedCabinQuantity": 2,
+                    "IsSaleForbidden": false,
+                    "AvailabilityIndication": "Available",
+                    "CarDescriptions": [
+                        "МЖ Ж У0"
+                    ],
+                    "ServiceClassNameRu": null,
+                    "ServiceClassNameEn": null,
+                    "InternationalServiceClasses": [
+                        ""
+                    ],
+                    "ServiceCosts": [
+                        243.0
+                    ],
+                    "IsBeddingSelectionPossible": false,
+                    "BoardingSystemTypes": [
+                        "PassengerBoardingControl"
+                    ],
+                    "HasElectronicRegistration": true,
+                    "HasGenderCabins": true,
+                    "HasPlaceNumeration": true,
+                    "HasPlacesNearPlayground": false,
+                    "HasPlacesNearPets": true,
+                    "HasPlacesForDisabledPersons": false,
+                    "HasPlacesNearBabies": false,
+                    "AvailableBaggageTypes": [
+                        {
+                            "Type": "HandLuggage",
+                            "Name": "Ручная кладь",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "OversizedLuggage",
+                            "Name": "Негабаритный багаж",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "LuggageInBaggageRoom",
+                            "Name": "Багаж в специально оборудованных купе",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "PetTransportation",
+                            "Name": "Домашние животные",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        }
+                    ],
+                    "HasNonRefundableTariff": false,
+                    "Discounts": [
+                        {
+                            "DiscountType": "Pupil",
+                            "Description": "Скидка для школьников"
+                        },
+                        {
+                            "DiscountType": "Birthday",
+                            "Description": "Скидка по тарифу ДеньР (день рождения в день отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "BirthdayAccompanying",
+                            "Description": "Скидка по тарифу ДеньС (сопровождение именинника, если его день рождения в дату отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "Kupek",
+                            "Description": "Скидка по тарифу Купек (выкуп одновременно 4-х мест в вагоне купе)"
+                        },
+                        {
+                            "DiscountType": "InternalFamily",
+                            "Description": "Скидка по семейному тарифу"
+                        },
+                        {
+                            "DiscountType": "UniversalCard",
+                            "Description": "Скидка по дорожной карте"
+                        },
+                        {
+                            "DiscountType": "BusinessTravelCard",
+                            "Description": "Оформление по Деловому проездному"
+                        }
+                    ],
+                    "AllowedTariffs": [],
+                    "InfoRequestSchema": "StandardIncludingInvalids",
+                    "TotalPlaceQuantity": 4,
+                    "PlaceReservationTypes": [
+                        "Usual"
+                    ],
+                    "IsThreeHoursReservationAvailable": false,
+                    "IsMealOptionPossible": false,
+                    "IsAdditionalMealOptionPossible": false,
+                    "IsOnRequestMealOptionPossible": false,
+                    "IsTransitDocumentRequired": false,
+                    "IsInterstate": false,
+                    "ClientFeeCalculation": null,
+                    "AgentFeeCalculation": null,
+                    "HasNonBrandedCars": true,
+                    "TripPointQuantity": 510,
+                    "HasPlacesForBusinessTravelBooking": false,
+                    "IsCarTransportationCoaches": false,
+                    "ServiceClassName": "",
+                    "HasFssBenefit": true
+                },
+                {
+                    "Carriers": [
+                        "ФПК"
+                    ],
+                    "CarrierDisplayNames": [
+                        "ФПК"
+                    ],
+                    "ServiceClasses": [
+                        "2А"
+                    ],
+                    "MinPrice": 1706.2,
+                    "MaxPrice": 2333.3,
+                    "CarType": "Compartment",
+                    "CarTypeName": "КУПЕ",
+                    "PlaceQuantity": 0,
+                    "LowerPlaceQuantity": 14,
+                    "UpperPlaceQuantity": 18,
+                    "LowerSidePlaceQuantity": 0,
+                    "UpperSidePlaceQuantity": 0,
+                    "MalePlaceQuantity": 6,
+                    "FemalePlaceQuantity": 3,
+                    "EmptyCabinQuantity": 8,
+                    "MixedCabinQuantity": 15,
+                    "IsSaleForbidden": false,
+                    "AvailabilityIndication": "Available",
+                    "CarDescriptions": [
+                        "МЖ Ж У0"
+                    ],
+                    "ServiceClassNameRu": null,
+                    "ServiceClassNameEn": null,
+                    "InternationalServiceClasses": [
+                        ""
+                    ],
+                    "ServiceCosts": [
+                        243.0
+                    ],
+                    "IsBeddingSelectionPossible": false,
+                    "BoardingSystemTypes": [
+                        "PassengerBoardingControl"
+                    ],
+                    "HasElectronicRegistration": true,
+                    "HasGenderCabins": true,
+                    "HasPlaceNumeration": true,
+                    "HasPlacesNearPlayground": false,
+                    "HasPlacesNearPets": true,
+                    "HasPlacesForDisabledPersons": false,
+                    "HasPlacesNearBabies": false,
+                    "AvailableBaggageTypes": [
+                        {
+                            "Type": "HandLuggage",
+                            "Name": "Ручная кладь",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "OversizedLuggage",
+                            "Name": "Негабаритный багаж",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "LuggageInBaggageRoom",
+                            "Name": "Багаж в специально оборудованных купе",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "PetTransportation",
+                            "Name": "Домашние животные",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        }
+                    ],
+                    "HasNonRefundableTariff": false,
+                    "Discounts": [
+                        {
+                            "DiscountType": "Pupil",
+                            "Description": "Скидка для школьников"
+                        },
+                        {
+                            "DiscountType": "Birthday",
+                            "Description": "Скидка по тарифу ДеньР (день рождения в день отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "BirthdayAccompanying",
+                            "Description": "Скидка по тарифу ДеньС (сопровождение именинника, если его день рождения в дату отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "Kupek",
+                            "Description": "Скидка по тарифу Купек (выкуп одновременно 4-х мест в вагоне купе)"
+                        },
+                        {
+                            "DiscountType": "InternalFamily",
+                            "Description": "Скидка по семейному тарифу"
+                        },
+                        {
+                            "DiscountType": "UniversalCard",
+                            "Description": "Скидка по дорожной карте"
+                        },
+                        {
+                            "DiscountType": "BusinessTravelCard",
+                            "Description": "Оформление по Деловому проездному"
+                        }
+                    ],
+                    "AllowedTariffs": [],
+                    "InfoRequestSchema": "StandardIncludingInvalids",
+                    "TotalPlaceQuantity": 32,
+                    "PlaceReservationTypes": [
+                        "Usual"
+                    ],
+                    "IsThreeHoursReservationAvailable": false,
+                    "IsMealOptionPossible": false,
+                    "IsAdditionalMealOptionPossible": false,
+                    "IsOnRequestMealOptionPossible": false,
+                    "IsTransitDocumentRequired": false,
+                    "IsInterstate": false,
+                    "ClientFeeCalculation": null,
+                    "AgentFeeCalculation": null,
+                    "HasNonBrandedCars": true,
+                    "TripPointQuantity": 510,
+                    "HasPlacesForBusinessTravelBooking": false,
+                    "IsCarTransportationCoaches": false,
+                    "ServiceClassName": "",
+                    "HasFssBenefit": true
+                },
+                {
+                    "Carriers": [
+                        "ФПК"
+                    ],
+                    "CarrierDisplayNames": [
+                        "ФПК"
+                    ],
+                    "ServiceClasses": [
+                        "2Ц"
+                    ],
+                    "MinPrice": 1706.2,
+                    "MaxPrice": 1706.2,
+                    "CarType": "Compartment",
+                    "CarTypeName": "КУПЕ",
+                    "PlaceQuantity": 0,
+                    "LowerPlaceQuantity": 0,
+                    "UpperPlaceQuantity": 2,
+                    "LowerSidePlaceQuantity": 0,
+                    "UpperSidePlaceQuantity": 0,
+                    "MalePlaceQuantity": 0,
+                    "FemalePlaceQuantity": 0,
+                    "EmptyCabinQuantity": 0,
+                    "MixedCabinQuantity": 0,
+                    "IsSaleForbidden": false,
+                    "AvailabilityIndication": "Available",
+                    "CarDescriptions": [
+                        "У0"
+                    ],
+                    "ServiceClassNameRu": null,
+                    "ServiceClassNameEn": null,
+                    "InternationalServiceClasses": [
+                        ""
+                    ],
+                    "ServiceCosts": [
+                        243.0
+                    ],
+                    "IsBeddingSelectionPossible": false,
+                    "BoardingSystemTypes": [
+                        "PassengerBoardingControl"
+                    ],
+                    "HasElectronicRegistration": true,
+                    "HasGenderCabins": false,
+                    "HasPlaceNumeration": true,
+                    "HasPlacesNearPlayground": false,
+                    "HasPlacesNearPets": false,
+                    "HasPlacesForDisabledPersons": false,
+                    "HasPlacesNearBabies": false,
+                    "AvailableBaggageTypes": [
+                        {
+                            "Type": "HandLuggage",
+                            "Name": "Ручная кладь",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "OversizedLuggage",
+                            "Name": "Негабаритный багаж",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "LuggageInBaggageRoom",
+                            "Name": "Багаж в специально оборудованных купе",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        }
+                    ],
+                    "HasNonRefundableTariff": false,
+                    "Discounts": [
+                        {
+                            "DiscountType": "Pupil",
+                            "Description": "Скидка для школьников"
+                        },
+                        {
+                            "DiscountType": "Birthday",
+                            "Description": "Скидка по тарифу ДеньР (день рождения в день отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "BirthdayAccompanying",
+                            "Description": "Скидка по тарифу ДеньС (сопровождение именинника, если его день рождения в дату отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "Kupek",
+                            "Description": "Скидка по тарифу Купек (выкуп одновременно 4-х мест в вагоне купе)"
+                        },
+                        {
+                            "DiscountType": "InternalFamily",
+                            "Description": "Скидка по семейному тарифу"
+                        },
+                        {
+                            "DiscountType": "UniversalCard",
+                            "Description": "Скидка по дорожной карте"
+                        },
+                        {
+                            "DiscountType": "BusinessTravelCard",
+                            "Description": "Оформление по Деловому проездному"
+                        }
+                    ],
+                    "AllowedTariffs": [],
+                    "InfoRequestSchema": "StandardIncludingInvalids",
+                    "TotalPlaceQuantity": 2,
+                    "PlaceReservationTypes": [
+                        "Usual"
+                    ],
+                    "IsThreeHoursReservationAvailable": false,
+                    "IsMealOptionPossible": false,
+                    "IsAdditionalMealOptionPossible": false,
+                    "IsOnRequestMealOptionPossible": false,
+                    "IsTransitDocumentRequired": false,
+                    "IsInterstate": false,
+                    "ClientFeeCalculation": null,
+                    "AgentFeeCalculation": null,
+                    "HasNonBrandedCars": true,
+                    "TripPointQuantity": 510,
+                    "HasPlacesForBusinessTravelBooking": false,
+                    "IsCarTransportationCoaches": false,
+                    "ServiceClassName": "",
+                    "HasFssBenefit": true
+                },
+                {
+                    "Carriers": [
+                        "ФПК"
+                    ],
+                    "CarrierDisplayNames": [
+                        "ФПК"
+                    ],
+                    "ServiceClasses": [
+                        "2Ц"
+                    ],
+                    "MinPrice": 1706.2,
+                    "MaxPrice": 2333.3,
+                    "CarType": "Compartment",
+                    "CarTypeName": "КУПЕ",
+                    "PlaceQuantity": 0,
+                    "LowerPlaceQuantity": 40,
+                    "UpperPlaceQuantity": 42,
+                    "LowerSidePlaceQuantity": 0,
+                    "UpperSidePlaceQuantity": 0,
+                    "MalePlaceQuantity": 0,
+                    "FemalePlaceQuantity": 0,
+                    "EmptyCabinQuantity": 0,
+                    "MixedCabinQuantity": 0,
+                    "IsSaleForbidden": false,
+                    "AvailabilityIndication": "Available",
+                    "CarDescriptions": [
+                        "У0"
+                    ],
+                    "ServiceClassNameRu": null,
+                    "ServiceClassNameEn": null,
+                    "InternationalServiceClasses": [
+                        ""
+                    ],
+                    "ServiceCosts": [
+                        243.0
+                    ],
+                    "IsBeddingSelectionPossible": false,
+                    "BoardingSystemTypes": [
+                        "PassengerBoardingControl"
+                    ],
+                    "HasElectronicRegistration": true,
+                    "HasGenderCabins": false,
+                    "HasPlaceNumeration": true,
+                    "HasPlacesNearPlayground": false,
+                    "HasPlacesNearPets": false,
+                    "HasPlacesForDisabledPersons": false,
+                    "HasPlacesNearBabies": false,
+                    "AvailableBaggageTypes": [
+                        {
+                            "Type": "HandLuggage",
+                            "Name": "Ручная кладь",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "OversizedLuggage",
+                            "Name": "Негабаритный багаж",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        },
+                        {
+                            "Type": "LuggageInBaggageRoom",
+                            "Name": "Багаж в специально оборудованных купе",
+                            "Description": null,
+                            "CarBaggageInfo": null
+                        }
+                    ],
+                    "HasNonRefundableTariff": false,
+                    "Discounts": [
+                        {
+                            "DiscountType": "Pupil",
+                            "Description": "Скидка для школьников"
+                        },
+                        {
+                            "DiscountType": "Birthday",
+                            "Description": "Скидка по тарифу ДеньР (день рождения в день отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "BirthdayAccompanying",
+                            "Description": "Скидка по тарифу ДеньС (сопровождение именинника, если его день рождения в дату отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "Kupek",
+                            "Description": "Скидка по тарифу Купек (выкуп одновременно 4-х мест в вагоне купе)"
+                        },
+                        {
+                            "DiscountType": "InternalFamily",
+                            "Description": "Скидка по семейному тарифу"
+                        },
+                        {
+                            "DiscountType": "UniversalCard",
+                            "Description": "Скидка по дорожной карте"
+                        },
+                        {
+                            "DiscountType": "BusinessTravelCard",
+                            "Description": "Оформление по Деловому проездному"
+                        }
+                    ],
+                    "AllowedTariffs": [],
+                    "InfoRequestSchema": "StandardIncludingInvalids",
+                    "TotalPlaceQuantity": 82,
+                    "PlaceReservationTypes": [
+                        "Usual"
+                    ],
+                    "IsThreeHoursReservationAvailable": false,
+                    "IsMealOptionPossible": false,
+                    "IsAdditionalMealOptionPossible": false,
+                    "IsOnRequestMealOptionPossible": false,
+                    "IsTransitDocumentRequired": false,
+                    "IsInterstate": false,
+                    "ClientFeeCalculation": null,
+                    "AgentFeeCalculation": null,
+                    "HasNonBrandedCars": true,
+                    "TripPointQuantity": 510,
+                    "HasPlacesForBusinessTravelBooking": false,
+                    "IsCarTransportationCoaches": false,
+                    "ServiceClassName": "",
+                    "HasFssBenefit": true
+                },
+                {
+                    "Carriers": [
+                        "ФПК"
+                    ],
+                    "CarrierDisplayNames": [
+                        "ФПК"
+                    ],
+                    "ServiceClasses": [
+                        ""
+                    ],
+                    "MinPrice": 0.0,
+                    "MaxPrice": 0.0,
+                    "CarType": "Baggage",
+                    "CarTypeName": "БАГАЖ",
+                    "PlaceQuantity": 8,
+                    "LowerPlaceQuantity": 0,
+                    "UpperPlaceQuantity": 0,
+                    "LowerSidePlaceQuantity": 0,
+                    "UpperSidePlaceQuantity": 0,
+                    "MalePlaceQuantity": 0,
+                    "FemalePlaceQuantity": 0,
+                    "EmptyCabinQuantity": 0,
+                    "MixedCabinQuantity": 0,
+                    "IsSaleForbidden": false,
+                    "AvailabilityIndication": "Available",
+                    "CarDescriptions": [
+                        null
+                    ],
+                    "ServiceClassNameRu": null,
+                    "ServiceClassNameEn": null,
+                    "InternationalServiceClasses": [
+                        ""
+                    ],
+                    "ServiceCosts": [
+                        0.0
+                    ],
+                    "IsBeddingSelectionPossible": false,
+                    "BoardingSystemTypes": [
+                        "NoValue"
+                    ],
+                    "HasElectronicRegistration": false,
+                    "HasGenderCabins": false,
+                    "HasPlaceNumeration": true,
+                    "HasPlacesNearPlayground": false,
+                    "HasPlacesNearPets": false,
+                    "HasPlacesForDisabledPersons": false,
+                    "HasPlacesNearBabies": false,
+                    "AvailableBaggageTypes": [],
+                    "HasNonRefundableTariff": false,
+                    "Discounts": [
+                        {
+                            "DiscountType": "Birthday",
+                            "Description": "Скидка по тарифу ДеньР (день рождения в день отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "BirthdayAccompanying",
+                            "Description": "Скидка по тарифу ДеньС (сопровождение именинника, если его день рождения в дату отправления +- 7 дней)"
+                        },
+                        {
+                            "DiscountType": "UniversalCard",
+                            "Description": "Скидка по дорожной карте"
+                        },
+                        {
+                            "DiscountType": "BusinessTravelCard",
+                            "Description": "Оформление по Деловому проездному"
+                        }
+                    ],
+                    "AllowedTariffs": [],
+                    "InfoRequestSchema": "StandardIncludingInvalids",
+                    "TotalPlaceQuantity": 8,
+                    "PlaceReservationTypes": [
+                        "Usual"
+                    ],
+                    "IsThreeHoursReservationAvailable": false,
+                    "IsMealOptionPossible": false,
+                    "IsAdditionalMealOptionPossible": false,
+                    "IsOnRequestMealOptionPossible": false,
+                    "IsTransitDocumentRequired": false,
+                    "IsInterstate": false,
+                    "ClientFeeCalculation": null,
+                    "AgentFeeCalculation": null,
+                    "HasNonBrandedCars": true,
+                    "TripPointQuantity": 0,
+                    "HasPlacesForBusinessTravelBooking": false,
+                    "IsCarTransportationCoaches": false,
+                    "ServiceClassName": "",
+                    "HasFssBenefit": false
+                }
+            ],
+            "IsFromSchedule": false,
+            "IsTourPackagePossible": false,
+            "CarTransportationsFreePlacesCount": null,
+            "ActualMovement": null,
+            "CategoryId": null,
+            "ScheduleId": null,
+            "BaggageCarsThreads": [
+                "А"
+            ],
+            "CarTransportationCoachesThreads": null,
+            "Provider": "P1",
+            "IsWaitListAvailable": false,
+            "HasElectronicRegistration": true,
+            "HasCarTransportationCoaches": false,
+            "HasDynamicPricingCars": false,
+            "HasTwoStoreyCars": true,
+            "HasSpecialSaleMode": false,
+            "Carriers": [
+                "ФПК"
+            ],
+            "CarrierDisplayNames": [
+                "ФПК"
+            ],
+            "Id": 4,
+            "IsBranded": false,
+            "TrainNumber": "221У",
+            "TrainNumberToGetRoute": "221У",
+            "DisplayTrainNumber": "221У",
+            "TrainDescription": "СК",
+            "TrainName": "",
+            "TrainNameEn": "",
+            "TransportType": "Train",
+            "OriginName": "Петрозаводск-Пасс",
+            "InitialStationName": "Петрозаводск-Пасс",
+            "OriginStationCode": "2004300",
+            "OriginStationInfo": {
+                "StationName": "Петрозаводск-Пасс",
+                "StationCode": "2004300",
+                "CnsiCode": "1",
+                "RegionName": "Республика Карелия",
+                "IsoCode": "RU-KR"
+            },
+            "InitialStationInfo": {
+                "StationName": "Петрозаводск-Пасс",
+                "StationCode": "2004300",
+                "CnsiCode": "1",
+                "RegionName": "Республика Карелия",
+                "IsoCode": "RU-KR"
+            },
+            "InitialTrainStationCode": "2004300",
+            "InitialTrainStationCnsiCode": "1",
+            "DestinationName": "Санкт-Петербург-Ладожский",
+            "FinalStationName": "Петрозаводск Тур2",
+            "DestinationStationCode": "2004006",
+            "DestinationStationInfo": {
+                "StationName": "Санкт-Петербург-Ладожский",
+                "StationCode": "2004006",
+                "CnsiCode": "531",
+                "RegionName": "Санкт-Петербург",
+                "IsoCode": "RU-SPE"
+            },
+            "FinalStationInfo": {
+                "StationName": "Петрозаводск Тур2",
+                "StationCode": "2005621",
+                "CnsiCode": null,
+                "RegionName": null,
+                "IsoCode": null
+            },
+            "FinalTrainStationCode": "2005621",
+            "FinalTrainStationCnsiCode": null,
+            "DestinationNames": [
+                "ПЕТРОЗАВ Т2"
+            ],
+            "FinalStationNames": [
+                "ПЕТРОЗАВ Т2"
+            ],
+            "DepartureDateTime": "2024-03-31T17:00:00",
+            "LocalDepartureDateTime": "2024-03-31T17:00:00",
+            "ArrivalDateTime": "2024-03-31T23:44:00",
+            "LocalArrivalDateTime": "2024-03-31T23:44:00",
+            "ArrivalDateTimes": [
+                "2024-03-31T23:44:00"
+            ],
+            "LocalArrivalDateTimes": [
+                "2024-03-31T23:44:00"
+            ],
+            "DepartureDateFromFormingStation": "2024-03-31T17:00:00",
+            "DepartureStopTime": 0,
+            "ArrivalStopTime": 60,
+            "TripDuration": 404.0,
+            "TripDistance": 395,
+            "IsSuburban": false,
+            "IsComponent": false,
+            "CarServices": [
+                "Bedclothes"
+            ],
+            "IsSaleForbidden": false,
+            "IsTicketPrintRequiredForBoarding": false,
+            "BookingSystem": "Express3",
+            "IsVrStorageSystem": false,
+            "PlacesStorageType": "Russia",
+            "BoardingSystemTypes": [
+                "PassengerBoardingControl",
+                "NoValue"
+            ],
+            "TrainBrandCode": "3033",
+            "TrainClassNames": null,
+            "ServiceProvider": "B2B_RZD",
+            "DestinationStationName": "Санкт-Петербург-Ладожский (Ладожский вокзал)",
+            "OriginStationName": "Петрозаводск-Пасс",
+            "IsPlaceRangeAllowed": true,
+            "IsTrainRouteAllowed": true
+        },
+        {
+            "CarGroups": [],
+            "IsFromSchedule": true,
+            "IsTourPackagePossible": false,
+            "CarTransportationsFreePlacesCount": null,
+            "ActualMovement": null,
+            "CategoryId": null,
+            "ScheduleId": null,
+            "BaggageCarsThreads": [
+                "А"
+            ],
+            "CarTransportationCoachesThreads": null,
+            "Provider": "P1",
+            "IsWaitListAvailable": false,
+            "HasElectronicRegistration": false,
+            "HasCarTransportationCoaches": false,
+            "HasDynamicPricingCars": false,
+            "HasTwoStoreyCars": false,
+            "HasSpecialSaleMode": false,
+            "Carriers": [
+                "ФПК"
+            ],
+            "CarrierDisplayNames": [
+                "ФПК"
+            ],
+            "Id": 5,
+            "IsBranded": false,
+            "TrainNumber": "211А",
+            "TrainNumberToGetRoute": "211А",
+            "DisplayTrainNumber": "211А",
+            "TrainDescription": "СК",
+            "TrainName": "",
+            "TrainNameEn": "",
+            "TransportType": "Train",
+            "OriginName": "Петрозаводск-Пасс",
+            "InitialStationName": "Петрозаводск-Пасс",
+            "OriginStationCode": "2004300",
+            "OriginStationInfo": {
+                "StationName": "Петрозаводск-Пасс",
+                "StationCode": "2004300",
+                "CnsiCode": "1",
+                "RegionName": "Республика Карелия",
+                "IsoCode": "RU-KR"
+            },
+            "InitialStationInfo": {
+                "StationName": "Петрозаводск-Пасс",
+                "StationCode": "2004300",
+                "CnsiCode": "1",
+                "RegionName": "Республика Карелия",
+                "IsoCode": "RU-KR"
+            },
+            "InitialTrainStationCode": "2004300",
+            "InitialTrainStationCnsiCode": "1",
+            "DestinationName": "Санкт-Петербург-Ладожский",
+            "FinalStationName": "Санкт-Петербург-Ладожский (Ладожский вокзал)",
+            "DestinationStationCode": "2004006",
+            "DestinationStationInfo": {
+                "StationName": "Санкт-Петербург-Ладожский",
+                "StationCode": "2004006",
+                "CnsiCode": "531",
+                "RegionName": "Санкт-Петербург",
+                "IsoCode": "RU-SPE"
+            },
+            "FinalStationInfo": {
+                "StationName": "Санкт-Петербург-Ладожский",
+                "StationCode": "2004006",
+                "CnsiCode": "531",
+                "RegionName": "Санкт-Петербург",
+                "IsoCode": "RU-SPE"
+            },
+            "FinalTrainStationCode": "2004006",
+            "FinalTrainStationCnsiCode": "531",
+            "DestinationNames": [
+                "С-ПЕТ-ЛАД"
+            ],
+            "FinalStationNames": [
+                "С-ПЕТ-ЛАД"
+            ],
+            "DepartureDateTime": "2024-03-31T22:40:00",
+            "LocalDepartureDateTime": "2024-03-31T22:40:00",
+            "ArrivalDateTime": "2024-04-01T06:24:00",
+            "LocalArrivalDateTime": "2024-04-01T06:24:00",
+            "ArrivalDateTimes": [
+                "2024-04-01T06:24:00"
+            ],
+            "LocalArrivalDateTimes": [
+                "2024-04-01T06:24:00"
+            ],
+            "DepartureDateFromFormingStation": "2024-03-31T22:40:00",
+            "DepartureStopTime": 0,
+            "ArrivalStopTime": 0,
+            "TripDuration": 464.0,
+            "TripDistance": 395,
+            "IsSuburban": false,
+            "IsComponent": false,
+            "CarServices": [],
+            "IsSaleForbidden": false,
+            "IsTicketPrintRequiredForBoarding": false,
+            "BookingSystem": "Express3",
+            "IsVrStorageSystem": false,
+            "PlacesStorageType": "Russia",
+            "BoardingSystemTypes": [
+                "NoValue"
+            ],
+            "TrainBrandCode": "3033",
+            "TrainClassNames": null,
+            "ServiceProvider": "B2B_RZD",
+            "DestinationStationName": "Санкт-Петербург-Ладожский (Ладожский вокзал)",
+            "OriginStationName": "Петрозаводск-Пасс",
+            "IsPlaceRangeAllowed": true,
+            "IsTrainRouteAllowed": true
+        },
+        {
+            "CarGroups": [],
+            "IsFromSchedule": true,
+            "IsTourPackagePossible": false,
+            "CarTransportationsFreePlacesCount": null,
+            "ActualMovement": {
+                "StationInfo": {
+                    "NameRu": "КНЯЖАЯ",
+                    "NameEn": null,
+                    "ExpressCode": "2004714",
+                    "CnsiCode": "89"
+                },
+                "Deviation": 0.0,
+                "DeviationType": 1
+            },
+            "CategoryId": null,
+            "ScheduleId": null,
+            "BaggageCarsThreads": null,
+            "CarTransportationCoachesThreads": null,
+            "Provider": "P1",
+            "IsWaitListAvailable": true,
+            "HasElectronicRegistration": null,
+            "HasCarTransportationCoaches": false,
+            "HasDynamicPricingCars": false,
+            "HasTwoStoreyCars": false,
+            "HasSpecialSaleMode": false,
+            "Carriers": [
+                "ФПК"
+            ],
+            "CarrierDisplayNames": [
+                "ФПК"
+            ],
+            "Id": 1,
+            "IsBranded": false,
+            "TrainNumber": "011Ч",
+            "TrainNumberToGetRoute": "011Ч",
+            "DisplayTrainNumber": "011Ч",
+            "TrainDescription": null,
+            "TrainName": "",
+            "TrainNameEn": null,
+            "TransportType": "Train",
+            "OriginName": null,
+            "InitialStationName": "Мурманск",
+            "OriginStationCode": "2004300",
+            "OriginStationInfo": {
+                "StationName": "Петрозаводск-Пасс",
+                "StationCode": "2004300",
+                "CnsiCode": "1",
+                "RegionName": "Республика Карелия",
+                "IsoCode": "RU-KR"
+            },
+            "InitialStationInfo": {
+                "StationName": "Мурманск",
+                "StationCode": "2004200",
+                "CnsiCode": "197",
+                "RegionName": "Мурманская область",
+                "IsoCode": "RU-MUR"
+            },
+            "InitialTrainStationCode": "2004200",
+            "InitialTrainStationCnsiCode": "197",
+            "DestinationName": "С-ПЕТ-ЛАД",
+            "FinalStationName": "Санкт-Петербург-Ладожский (Ладожский вокзал)",
+            "DestinationStationCode": "2004006",
+            "DestinationStationInfo": {
+                "StationName": "Санкт-Петербург-Ладожский",
+                "StationCode": "2004006",
+                "CnsiCode": "531",
+                "RegionName": "Санкт-Петербург",
+                "IsoCode": "RU-SPE"
+            },
+            "FinalStationInfo": {
+                "StationName": "Санкт-Петербург-Ладожский",
+                "StationCode": "2004006",
+                "CnsiCode": "531",
+                "RegionName": "Санкт-Петербург",
+                "IsoCode": "RU-SPE"
+            },
+            "FinalTrainStationCode": "2004006",
+            "FinalTrainStationCnsiCode": "531",
+            "DestinationNames": [
+                "С-ПЕТ-ЛАД"
+            ],
+            "FinalStationNames": [
+                "С-ПЕТ-ЛАД"
+            ],
+            "DepartureDateTime": "2024-03-31T04:19:00",
+            "LocalDepartureDateTime": "2024-03-31T04:19:00",
+            "ArrivalDateTime": "2024-03-31T10:09:00",
+            "LocalArrivalDateTime": "2024-03-31T10:09:00",
+            "ArrivalDateTimes": [
+                "2024-03-31T10:09:00"
+            ],
+            "LocalArrivalDateTimes": [
+                "2024-03-31T10:09:00"
+            ],
+            "DepartureDateFromFormingStation": "2024-03-30T10:10:00",
+            "DepartureStopTime": 31,
+            "ArrivalStopTime": 0,
+            "TripDuration": 350.0,
+            "TripDistance": 395,
+            "IsSuburban": false,
+            "IsComponent": false,
+            "CarServices": [],
+            "IsSaleForbidden": false,
+            "IsTicketPrintRequiredForBoarding": false,
+            "BookingSystem": "Express3",
+            "IsVrStorageSystem": false,
+            "PlacesStorageType": "Russia",
+            "BoardingSystemTypes": null,
+            "TrainBrandCode": null,
+            "TrainClassNames": null,
+            "ServiceProvider": "B2B_RZD",
+            "DestinationStationName": "Санкт-Петербург-Ладожский (Ладожский вокзал)",
+            "OriginStationName": "Петрозаводск-Пасс",
+            "IsPlaceRangeAllowed": true,
+            "IsTrainRouteAllowed": true
+        },
+        {
+            "CarGroups": [],
+            "IsFromSchedule": true,
+            "IsTourPackagePossible": false,
+            "CarTransportationsFreePlacesCount": null,
+            "ActualMovement": null,
+            "CategoryId": null,
+            "ScheduleId": null,
+            "BaggageCarsThreads": null,
+            "CarTransportationCoachesThreads": null,
+            "Provider": "P1",
+            "IsWaitListAvailable": true,
+            "HasElectronicRegistration": null,
+            "HasCarTransportationCoaches": false,
+            "HasDynamicPricingCars": false,
+            "HasTwoStoreyCars": false,
+            "HasSpecialSaleMode": false,
+            "Carriers": [
+                "ФПК"
+            ],
+            "CarrierDisplayNames": [
+                "ФПК"
+            ],
+            "Id": 1,
+            "IsBranded": false,
+            "TrainNumber": "805Ч",
+            "TrainNumberToGetRoute": "805Ч",
+            "DisplayTrainNumber": "805Ч",
+            "TrainDescription": null,
+            "TrainName": "",
+            "TrainNameEn": null,
+            "TransportType": "Train",
+            "OriginName": null,
+            "InitialStationName": "Петрозаводск-Пасс",
+            "OriginStationCode": "2004300",
+            "OriginStationInfo": {
+                "StationName": "Петрозаводск-Пасс",
+                "StationCode": "2004300",
+                "CnsiCode": "1",
+                "RegionName": "Республика Карелия",
+                "IsoCode": "RU-KR"
+            },
+            "InitialStationInfo": {
+                "StationName": "Петрозаводск-Пасс",
+                "StationCode": "2004300",
+                "CnsiCode": "1",
+                "RegionName": "Республика Карелия",
+                "IsoCode": "RU-KR"
+            },
+            "InitialTrainStationCode": "2004300",
+            "InitialTrainStationCnsiCode": "1",
+            "DestinationName": "С-ПЕТ-ЛАД",
+            "FinalStationName": "Санкт-Петербург-Ладожский (Ладожский вокзал)",
+            "DestinationStationCode": "2004006",
+            "DestinationStationInfo": {
+                "StationName": "Санкт-Петербург-Ладожский",
+                "StationCode": "2004006",
+                "CnsiCode": "531",
+                "RegionName": "Санкт-Петербург",
+                "IsoCode": "RU-SPE"
+            },
+            "FinalStationInfo": {
+                "StationName": "Санкт-Петербург-Ладожский",
+                "StationCode": "2004006",
+                "CnsiCode": "531",
+                "RegionName": "Санкт-Петербург",
+                "IsoCode": "RU-SPE"
+            },
+            "FinalTrainStationCode": "2004006",
+            "FinalTrainStationCnsiCode": "531",
+            "DestinationNames": [
+                "С-ПЕТ-ЛАД"
+            ],
+            "FinalStationNames": [
+                "С-ПЕТ-ЛАД"
+            ],
+            "DepartureDateTime": "2024-03-31T18:00:00",
+            "LocalDepartureDateTime": "2024-03-31T18:00:00",
+            "ArrivalDateTime": "2024-03-31T22:59:00",
+            "LocalArrivalDateTime": "2024-03-31T22:59:00",
+            "ArrivalDateTimes": [
+                "2024-03-31T22:59:00"
+            ],
+            "LocalArrivalDateTimes": [
+                "2024-03-31T22:59:00"
+            ],
+            "DepartureDateFromFormingStation": "2024-03-31T18:00:00",
+            "DepartureStopTime": 0,
+            "ArrivalStopTime": 0,
+            "TripDuration": 299.0,
+            "TripDistance": 395,
+            "IsSuburban": false,
+            "IsComponent": false,
+            "CarServices": [],
+            "IsSaleForbidden": false,
+            "IsTicketPrintRequiredForBoarding": false,
+            "BookingSystem": "Express3",
+            "IsVrStorageSystem": false,
+            "PlacesStorageType": "Russia",
+            "BoardingSystemTypes": null,
+            "TrainBrandCode": null,
+            "TrainClassNames": null,
+            "ServiceProvider": "B2B_RZD",
+            "DestinationStationName": "Санкт-Петербург-Ладожский (Ладожский вокзал)",
+            "OriginStationName": "Петрозаводск-Пасс",
+            "IsPlaceRangeAllowed": true,
+            "IsTrainRouteAllowed": true
+        }
+    ],
+    "ClientFeeCalculation": null,
+    "AgentFeeCalculation": null,
+    "OriginCode": "2005594",
+    "OriginStationInfo": {
+        "StationName": "Петрозаводск",
+        "StationCode": "2005594",
+        "CnsiCode": null,
+        "RegionName": null,
+        "IsoCode": null
+    },
+    "OriginTimeZoneDifference": 0,
+    "DestinationCode": "2004000",
+    "DestinationStationInfo": {
+        "StationName": "Санкт-Петербург",
+        "StationCode": "2004000",
+        "CnsiCode": null,
+        "RegionName": null,
+        "IsoCode": null
+    },
+    "DestinationTimeZoneDifference": 0,
+    "RoutePolicy": "Internal",
+    "DepartureTimeDescription": "Moscow",
+    "ArrivalTimeDescription": "Moscow",
+    "IsFromUkrain": false,
+    "NotAllTrainsReturned": false,
+    "BookingSystem": "Express3",
+    "Id": 0,
+    "DestinationStationName": "Санкт-Петербург",
+    "OriginStationName": "Петрозаводск",
+    "MoscowDateTime": "2024-03-30T16:04:56.879"
+}
