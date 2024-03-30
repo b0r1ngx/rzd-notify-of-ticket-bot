@@ -5,6 +5,12 @@ from database.db_session import Session
 from database.tables.User import User
 
 
+def get_all_users():
+    with Session() as s:
+        users = s.query(User).all()
+        return users
+
+
 def commit_user_to_db(user: dict) -> None:
     insert_stmt = insert(User).values(user)
     on_conflict_stmt = insert_stmt.on_conflict_do_nothing()
