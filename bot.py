@@ -1,8 +1,4 @@
 import logging
-import threading
-import time
-
-import schedule
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 from apscheduler.triggers.interval import IntervalTrigger
 from telegram import ForceReply, Update, Bot
@@ -68,24 +64,6 @@ def start_schedule_functions():
     scheduler.add_job(scan_for_available_tickets, trigger=IntervalTrigger(seconds=10))
     scheduler.add_job(im_work, trigger=IntervalTrigger(minutes=10))
     scheduler.start()
-    # we can use schedule library if want to can not async functions
-    # schedule.every(10).seconds.do(scan_for_available_tickets)
-    # schedule.every(10).minutes.do(event_starter, im_work)
-    # run_threaded(run_schedules).start()
-
-
-async def event_starter(func):
-    await func
-
-
-def run_threaded(job_func, args=()):
-    return threading.Thread(target=job_func, args=args)
-
-
-def run_schedules():
-    while True:
-        schedule.run_pending()
-        time.sleep(1)
 
 
 def main() -> None:
